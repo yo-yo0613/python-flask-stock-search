@@ -100,5 +100,9 @@ def stock_chart():
         charts=charts_html
     )
 
+print('Stock Chart Server is running...')
+stock = str(input("stock code: "))
+print(f'http://127.0.0.1:5000/chart?ticker={stock}')
+
 if __name__ == "__main__":
     app.run(debug=True)

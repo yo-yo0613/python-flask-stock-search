@@ -36,17 +36,6 @@ S&P 500, which has recorded the performance of the U.S. stock market since 1957 
 
 4. Open in browser: `http://127.0.0.1:5000/chart?ticker=AAPL`
 
-## Build and Deploy
-
-To build the project:
-```sh
-npm run build
-```
-
-To deploy to Firebase:
-```sh
-firebase deploy
-```
 
 ## Folder Structure
 ```
@@ -65,8 +54,8 @@ my-portfolio/
 ```
 
 ## Known Issues
-- Ensure images are placed inside the `public/` folder for proper rendering.
-- Use `/image-name.png` instead of `src/assets/image-name.png` in your project data.
+- Use String instead of https://en.wikipedia.org/wiki/List_of_S%26P_500_companies in your project data.
+- You can search your stock in python terminal
 
 ## Contact
 For any inquiries or suggestions, feel free to reach out!

@@ -8,7 +8,7 @@ from plotly.subplots import make_subplots
 app = Flask(__name__)
 
 def generate_chart_html(ticker_symbol, k_period=9, d_period=3, smooth_k=3):
-    data = yf.download(ticker_symbol, start="2024-01-01", end="2025-02-01")
+    data = yf.download(ticker_symbol, start="2024-01-01", end="2025-02-08")
 
     if isinstance(data.columns, pd.MultiIndex):
         data.columns = data.columns.get_level_values(0)

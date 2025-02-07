@@ -1,502 +1,504 @@
 股票代碼,Industry,股價,市值,EPS,PE Ratio,股息收益率,現金(十億),短期負債(十億),長期負債(十億),淨資產(十億)
-A,,151.52,43.23,,34.28,,1.33,1.9,3.35,5.9
-AAPL,Consumer Electronics,236.0,3572.85,6.25,37.76,0.42,29.94,176.39,85.75,56.95
-ABBV,Drug Manufacturers - General,183.9,324.98,2.86,64.3,3.73,12.81,37.84,52.19,10.4
-ABNB,Travel Services,131.17,81.95,2.89,45.39,,6.87,9.95,1.99,8.16
-ABT,Medical Devices,127.93,221.89,7.64,16.74,2.02,6.9,13.84,13.6,38.82
-ACGL,Insurance - Diversified,93.07,35.58,14.66,6.35,,0.92,,2.73,18.36
-ACN,Information Technology Services,384.95,240.78,11.93,32.27,1.7,5.0,18.98,0.08,29.17
-ADBE,Software - Infrastructure,437.45,190.42,12.38,35.34,,7.61,10.52,4.13,14.11
-ADI,Semiconductors,211.89,105.13,3.28,64.6,1.65,1.99,2.99,6.63,35.18
-ADM,Farm Products,51.23,24.52,3.56,14.39,3.79,1.37,18.66,8.26,24.46
-ADP,Software - Application,303.01,123.29,9.58,31.63,2.06,2.91,45.08,2.99,4.54
-ADSK,Software - Application,311.34,67.1,5.04,61.77,,1.95,4.0,2.28,1.15
-AEE,Utilities - Regulated Electric,94.2,25.14,4.25,22.16,2.85,0.03,3.35,15.12,11.48
-AEP,Utilities - Regulated Electric,98.36,52.38,4.96,19.83,3.78,0.33,11.58,37.65,25.28
-AES,Utilities - Diversified,11.0,7.82,1.44,7.64,6.3,1.43,9.73,22.75,5.99
-AFL,Insurance - Life,107.38,59.65,6.73,15.96,2.16,4.31,,7.24,21.98
-AIG,Insurance - Diversified,73.66,45.95,5.03,14.64,2.17,2.15,,22.14,51.31
-AIZ,Insurance - Property & Casualty,215.19,11.04,14.01,15.36,1.49,1.63,,2.08,4.81
-AJG,Insurance Brokers,301.82,75.4,6.49,46.51,0.87,0.97,31.06,7.01,10.82
-AKAM,Software - Infrastructure,99.9,15.01,3.38,29.56,,0.49,0.84,3.54,4.6
-ALB,Specialty Chemicals,84.19,9.9,-16.76,,1.92,0.89,3.56,3.54,9.66
-ALGN,Medical Instruments & Supplies,219.11,16.36,5.85,37.45,,0.94,2.07,,3.63
-ALL,Insurance - Property & Casualty,192.33,50.93,15.46,12.44,1.91,0.72,,7.94,17.63
-ALLE,Security & Protection Services,132.73,11.54,6.5,20.42,1.45,0.47,1.08,1.6,1.32
-AMAT,Semiconductor Equipment & Materials,180.35,147.68,8.55,21.09,0.86,8.02,8.47,5.46,19.0
-AMCR,Packaging & Containers,9.72,14.09,0.53,18.34,5.23,0.59,4.26,6.6,3.95
-AMD,Semiconductors,115.95,192.89,1.1,105.41,,3.93,6.69,1.72,55.9
-AME,Specialty Industrial Machinery,184.56,42.69,5.74,32.15,0.61,0.41,2.88,1.9,8.73
-AMGN,Drug Manufacturers - General,285.42,153.42,7.88,36.22,3.35,10.94,18.39,63.17,6.23
-AMP,Asset Management,543.36,52.27,24.72,21.98,1.03,7.56,,4.98,4.73
-AMT,REIT - Specialty,184.95,86.43,4.14,44.67,3.5,1.97,7.25,35.73,10.87
-AMZN,Internet Retail,237.68,2499.21,4.73,50.25,,73.39,164.92,58.31,201.87
-ANET,Computer Hardware,115.23,145.16,2.09,55.13,,1.94,1.91,,7.22
-ANSS,Software - Application,350.5,30.65,6.48,54.09,,0.86,0.89,0.75,5.39
-AON,Insurance Brokers,370.82,80.1,12.5,29.67,0.73,0.78,21.65,9.99,-0.74
-AOS,Specialty Industrial Machinery,67.3,9.76,3.63,18.54,1.96,0.34,0.95,0.12,1.84
-APA,Oil & Gas E&P,21.93,8.11,7.04,3.12,4.56,0.09,2.4,5.19,3.69
-APD,Specialty Chemicals,335.26,74.55,17.23,19.46,2.14,2.98,4.18,13.53,18.67
-APH,Electronic Components,70.78,85.33,1.92,36.86,0.91,1.48,3.15,3.98,8.43
-APO,Asset Management,170.98,97.18,9.42,18.15,1.08,15.93,216.44,8.06,25.25
-APTV,Auto Parts,62.42,14.79,8.91,7.01,,1.64,4.81,6.2,11.85
-ARE,REIT - Office,97.35,16.85,1.8,54.08,5.2,0.55,1.96,12.24,22.4
-ATO,Utilities - Regulated Gas,142.51,22.18,6.83,20.87,2.37,0.31,1.21,7.86,12.15
-AVB,REIT - Residential,221.51,31.51,7.31,30.3,3.07,0.4,0.69,7.98,11.79
-AVGO,Semiconductors,221.27,1037.17,1.28,172.87,1.17,9.35,16.7,66.28,67.68
-AVY,Packaging & Containers,185.73,14.92,8.73,21.27,1.82,0.21,2.7,2.62,2.13
-AWK,Utilities - Regulated Water,124.64,24.29,5.04,24.73,2.46,0.33,2.15,11.71,9.8
-AXON,Aerospace & Defense,652.18,49.73,3.85,169.4,,0.6,0.8,0.68,1.62
-AXP,Credit Services,317.45,223.9,13.94,22.77,0.86,46.53,,47.87,28.06
-AZO,Specialty Retail,3350.21,56.22,149.42,22.42,,0.3,8.71,9.02,-4.75
+A,Diagnostics & Research,145.18,41.42,4.43,32.77,0.74,1.33,1.9,3.35,5.9
+AAPL,Consumer Electronics,228.42,3431.35,6.3,36.26,0.42,29.94,176.39,85.75,56.95
+ABBV,Drug Manufacturers - General,192.39,339.98,2.39,80.5,3.73,12.81,37.84,52.19,10.4
+ABNB,Travel Services,135.04,84.37,2.88,46.89,,6.87,9.95,1.99,8.16
+ABT,Medical Devices,129.05,223.83,7.64,16.89,2.02,6.9,13.84,13.6,38.82
+ACGL,Insurance - Diversified,93.63,35.23,14.9,6.28,,0.92,,2.73,18.36
+ACN,Information Technology Services,386.58,241.79,11.93,32.4,1.7,5.0,18.98,0.08,29.17
+ADBE,Software - Infrastructure,434.8,189.27,12.37,35.15,,7.61,10.52,4.13,14.11
+ADI,Semiconductors,204.55,101.49,3.28,62.36,1.65,1.99,2.99,6.63,35.18
+ADM,Farm Products,45.58,21.81,3.65,12.49,3.79,1.37,18.66,8.26,24.46
+ADP,Software - Application,307.9,125.28,9.58,32.14,2.06,2.91,45.08,2.99,4.54
+ADSK,Software - Application,302.37,65.16,5.02,60.23,,1.95,4.0,2.28,1.15
+AEE,Utilities - Regulated Electric,97.04,25.9,4.25,22.83,2.77,0.03,3.35,15.12,11.48
+AEP,Utilities - Regulated Electric,100.03,53.27,4.96,20.17,3.71,0.33,11.58,37.65,25.28
+AES,Utilities - Diversified,10.65,7.57,1.44,7.39,6.41,1.43,9.73,22.75,5.99
+AFL,Insurance - Life,104.14,57.27,9.63,10.81,2.16,4.31,,7.24,21.98
+AIG,Insurance - Diversified,74.89,46.72,5.03,14.89,2.15,2.15,,22.14,51.31
+AIZ,Insurance - Property & Casualty,214.2,10.99,14.0,15.3,1.49,1.63,,2.08,4.81
+AJG,Insurance Brokers,322.43,80.61,6.5,49.6,0.87,0.97,31.06,7.01,10.82
+AKAM,Software - Infrastructure,98.78,14.84,3.38,29.22,,0.49,0.84,3.54,4.6
+ALB,Specialty Chemicals,77.16,9.07,-16.76,,2.05,0.89,3.56,3.54,9.66
+ALGN,Medical Instruments & Supplies,214.47,16.01,5.61,38.23,,0.94,2.07,,3.63
+ALL,Insurance - Property & Casualty,190.88,50.58,16.98,11.24,1.91,0.72,,7.94,17.63
+ALLE,Security & Protection Services,128.18,11.14,6.5,19.72,1.48,0.47,1.08,1.6,1.32
+AMAT,Semiconductor Equipment & Materials,179.47,145.86,8.61,20.84,0.86,8.02,8.47,5.46,19.0
+AMCR,Packaging & Containers,10.01,14.46,0.55,18.19,5.33,0.59,4.26,6.6,3.95
+AMD,Semiconductors,107.26,173.81,1.0,107.26,,3.79,7.28,1.72,57.57
+AME,Specialty Industrial Machinery,184.05,42.57,5.93,31.04,0.61,0.41,2.88,1.9,8.73
+AMGN,Drug Manufacturers - General,295.06,158.6,7.56,39.03,3.3,10.94,18.39,63.17,6.23
+AMP,Asset Management,543.22,52.26,24.65,22.04,1.03,7.56,,4.98,4.73
+AMT,REIT - Specialty,188.41,88.04,4.16,45.29,3.42,1.97,7.25,35.73,10.87
+AMZN,Internet Retail,229.55,2413.77,5.54,41.44,,73.39,164.92,58.31,201.87
+ANET,Computer Hardware,118.86,149.74,2.09,56.87,,1.94,1.91,,7.22
+ANSS,Software - Application,343.32,30.02,6.48,52.98,,0.86,0.89,0.75,5.39
+AON,Insurance Brokers,386.25,83.53,12.5,30.9,0.73,0.78,21.65,9.99,-0.74
+AOS,Specialty Industrial Machinery,65.35,9.48,3.63,18.0,1.96,0.34,0.95,0.12,1.84
+APA,Oil & Gas E&P,21.7,8.03,7.04,3.08,4.62,0.09,2.4,5.19,3.69
+APD,Specialty Chemicals,310.23,69.02,17.29,17.94,2.15,2.98,4.18,13.53,18.67
+APH,Electronic Components,69.82,84.17,1.92,36.36,0.91,1.48,3.15,3.98,8.43
+APO,Asset Management,164.7,93.18,7.34,22.44,1.11,15.93,216.44,8.06,25.25
+APTV,Auto Parts,64.14,15.08,6.96,9.22,,1.64,4.81,6.2,11.85
+ARE,REIT - Office,95.62,16.55,1.8,53.12,5.2,0.55,1.96,12.24,22.4
+ATO,Utilities - Regulated Gas,142.4,22.6,6.98,20.4,2.37,0.31,1.21,7.86,12.15
+AVB,REIT - Residential,220.94,31.43,7.61,29.03,3.03,0.4,0.69,7.98,11.79
+AVGO,Semiconductors,225.84,1058.59,1.3,173.72,1.17,9.35,16.7,66.28,67.68
+AVY,Packaging & Containers,179.64,14.43,8.74,20.55,1.82,0.21,2.7,2.62,2.13
+AWK,Utilities - Regulated Water,122.76,23.93,5.05,24.31,2.47,0.33,2.15,11.71,9.8
+AXON,Aerospace & Defense,682.58,52.05,3.86,176.83,,0.6,0.8,0.68,1.62
+AXP,Credit Services,319.22,224.09,14.02,22.77,0.86,46.53,,47.87,28.06
+AZO,Specialty Retail,3433.3,57.62,149.41,22.98,,0.3,8.71,9.02,-4.75
 BA	,,,,,,,,,,
-BAC,Banks - Diversified,46.3,352.38,3.21,14.42,2.21,341.42,,302.2,291.64
-BALL,Packaging & Containers,55.7,16.62,2.4,23.21,1.44,0.69,6.18,7.5,3.83
-BAX,Medical Instruments & Supplies,32.56,16.62,0.25,130.24,2.09,3.19,6.5,11.13,8.47
-BBY,Specialty Retail,85.86,18.36,5.84,14.7,4.04,1.45,7.91,1.15,3.06
-BDX,Medical Instruments & Supplies,247.6,71.81,5.87,42.18,1.75,1.72,8.96,17.94,25.89
-BEN,Asset Management,22.24,11.68,0.64,34.75,6.35,4.41,1.82,12.12,14.56
+BAC,Banks - Diversified,47.71,363.12,3.21,14.86,2.21,341.42,,302.2,291.64
+BALL,Packaging & Containers,50.64,15.11,1.37,36.96,1.44,0.69,6.18,7.5,3.83
+BAX,Medical Instruments & Supplies,30.71,15.68,0.25,122.83,2.21,3.19,6.5,11.13,8.47
+BBY,Specialty Retail,85.29,18.23,5.84,14.6,4.04,1.45,7.91,1.15,3.06
+BDX,Medical Instruments & Supplies,228.6,66.29,5.93,38.55,1.75,1.72,8.96,17.94,25.89
+BEN,Asset Management,20.67,10.86,0.64,32.3,6.35,4.41,1.82,12.12,14.56
 BF,,,,,,,,,,
 BG	,,,,,,,,,,
-BIIB,Drug Manufacturers - General,143.93,20.97,11.05,13.03,,1.05,3.43,6.79,14.79
+BIIB,Drug Manufacturers - General,141.82,20.67,11.06,12.82,,1.05,3.43,6.79,14.79
 BK	,,,,,,,,,,
-BKNG,Travel Services,4737.56,158.01,146.86,32.26,0.73,12.11,13.33,12.22,-2.75
-BKR,Oil & Gas Equipment & Services,46.18,45.7,2.98,15.5,2.06,2.65,12.99,5.87,15.52
-BLDR,Building Products & Equipment,167.28,19.25,10.24,16.34,,0.07,1.86,3.18,4.73
-BLK,Asset Management,1075.5,166.57,42.05,25.58,2.12,8.74,1.24,7.92,41.24
-BMY,Drug Manufacturers - General,58.95,119.95,-3.57,,4.19,11.46,22.26,36.65,29.49
+BKNG,Travel Services,4921.15,162.87,147.69,33.32,0.73,12.11,13.33,12.22,-2.75
+BKR,Oil & Gas Equipment & Services,46.45,45.99,2.98,15.59,2.06,3.36,12.99,5.97,17.05
+BLDR,Building Products & Equipment,153.97,17.72,10.23,15.05,,0.07,1.86,3.18,4.73
+BLK,Asset Management,998.59,154.66,41.98,23.79,2.12,8.74,1.24,7.92,41.24
+BMY,Drug Manufacturers - General,56.37,114.32,-4.41,,4.15,11.46,22.26,36.65,29.49
 BR	,,,,,,,,,,
 BRK,,,,,,,,,,
-BRO,Insurance Brokers,104.66,29.93,3.46,30.25,0.57,0.7,4.96,3.23,5.58
-BSX,Medical Devices,102.36,150.86,1.21,84.6,,0.86,4.93,8.57,19.53
-BWA,Auto Parts,31.9,6.98,4.04,7.9,1.38,1.53,3.77,3.71,6.06
+BRO,Insurance Brokers,107.76,30.81,3.46,31.14,0.57,0.7,4.96,3.23,5.58
+BSX,Medical Devices,105.5,155.49,1.25,84.4,,0.86,4.93,8.57,19.53
+BWA,Auto Parts,29.92,6.54,1.63,18.36,1.41,1.53,3.77,3.71,6.06
 BX	,,,,,,,,,,
-BXP,REIT - Office,73.14,12.9,2.3,31.8,5.36,1.53,0.76,15.86,8.2
-C,Banks - Diversified,81.43,153.66,5.92,13.76,2.86,260.93,,286.62,206.25
-CAG,Packaged Foods,25.89,12.36,1.03,25.14,5.12,0.08,3.24,7.49,8.51
-CAH,Medical Distribution,123.66,29.87,5.37,23.03,1.58,5.13,35.64,4.66,-3.21
-CARR,Building Products & Equipment,65.38,59.19,1.69,38.69,1.36,10.02,6.89,14.24,9.0
-CAT,Farm & Heavy Construction Machinery,371.44,179.33,22.05,16.85,1.43,6.98,34.73,24.53,19.51
-CB,Insurance - Property & Casualty,271.88,108.94,22.51,12.08,1.34,2.45,,13.04,63.69
-CBOE,Financial Data & Stock Exchanges,204.33,21.39,7.34,27.84,1.23,0.54,1.38,1.44,3.99
-CBRE,Real Estate Services,144.74,44.29,3.08,46.99,,1.26,8.24,2.8,9.07
-CCI,REIT - Specialty,89.28,38.8,2.82,31.66,7.01,0.1,2.58,22.09,6.38
-CCL,Travel Services,27.67,37.41,1.44,19.22,,1.21,11.62,25.94,9.26
-CDNS,Software - Application,297.62,81.63,3.81,78.12,,1.01,1.59,0.3,3.4
-CDW,Information Technology Services,199.14,26.54,8.18,24.34,1.26,0.59,5.44,5.03,2.04
-CE,Chemicals,71.04,7.77,10.04,7.08,3.94,1.8,4.07,12.3,7.55
-CEG,Utilities - Renewable,299.98,96.53,8.82,34.01,0.46,0.37,6.32,7.5,11.29
-CF,Agricultural Inputs,92.21,16.05,6.31,14.61,2.17,2.03,0.8,2.97,8.38
-CFG,Banks - Regional,47.57,20.96,3.03,15.7,3.53,12.03,,13.47,24.34
-CHD,Household & Personal Products,105.52,25.85,2.37,44.52,1.06,0.34,1.42,2.2,3.86
-CHRW,Integrated Freight & Logistics,99.49,11.76,3.86,25.77,2.3,0.15,2.05,1.42,1.42
-CHTR,Telecom Services,345.49,49.04,34.96,9.88,,0.71,13.21,95.78,14.72
-CI,Healthcare Plans,294.21,80.55,12.12,24.27,1.85,7.82,,28.16,46.35
-CINF,Insurance - Property & Casualty,137.05,21.42,19.46,7.04,2.36,0.91,,0.79,12.1
-CL,Household & Personal Products,86.7,70.83,3.51,24.7,2.2,0.97,4.74,8.22,0.95
-CLX,Household & Personal Products,158.68,19.64,2.87,55.29,3.08,0.2,1.57,2.48,0.49
+BXP,REIT - Office,72.33,12.76,2.3,31.45,5.36,1.53,0.76,15.86,8.2
+C,Banks - Diversified,82.28,154.45,5.95,13.83,2.86,260.93,,286.62,206.25
+CAG,Packaged Foods,24.72,11.8,1.03,24.0,5.12,0.08,3.24,7.49,8.51
+CAH,Medical Distribution,127.97,30.91,5.37,23.83,1.58,5.13,35.64,4.66,-3.21
+CARR,Building Products & Equipment,63.84,57.28,1.7,37.55,1.38,10.02,6.89,14.24,9.0
+CAT,Farm & Heavy Construction Machinery,363.77,175.63,22.04,16.5,1.43,6.98,34.73,24.53,19.51
+CB,Insurance - Property & Casualty,271.5,108.79,22.51,12.06,1.34,2.45,,13.04,63.69
+CBOE,Financial Data & Stock Exchanges,209.13,21.89,7.35,28.45,1.22,0.54,1.38,1.44,3.99
+CBRE,Real Estate Services,142.94,43.74,3.09,46.26,,1.26,8.24,2.8,9.07
+CCI,REIT - Specialty,89.42,38.86,2.82,31.71,6.94,0.1,2.58,22.09,6.38
+CCL,Travel Services,26.99,36.48,1.44,18.74,,1.21,11.62,25.94,9.26
+CDNS,Software - Application,299.14,82.04,3.79,78.93,,1.01,1.59,0.3,3.4
+CDW,Information Technology Services,192.49,25.65,7.97,24.15,1.25,0.59,5.44,5.03,2.04
+CE,Chemicals,68.33,7.47,10.04,6.81,4.06,1.8,4.07,12.3,7.55
+CEG,Utilities - Renewable,312.58,97.79,9.07,34.46,0.45,0.37,6.32,7.5,11.29
+CF,Agricultural Inputs,84.15,14.64,6.31,13.34,2.38,2.03,0.8,2.97,8.38
+CFG,Banks - Regional,47.78,21.05,3.03,15.77,3.53,12.03,,13.47,24.34
+CHD,Household & Personal Products,104.88,25.69,2.37,44.25,1.06,0.34,1.42,2.2,3.86
+CHRW,Integrated Freight & Logistics,96.24,11.38,3.86,24.93,2.3,0.15,2.05,1.42,1.42
+CHTR,Telecom Services,350.85,49.8,34.98,10.03,,0.46,13.49,93.21,19.71
+CI,Healthcare Plans,288.0,78.85,12.12,23.76,1.85,7.82,,28.16,46.35
+CINF,Insurance - Property & Casualty,136.79,21.38,19.46,7.03,2.52,0.91,,0.79,12.1
+CL,Household & Personal Products,86.33,70.53,3.51,24.6,2.2,0.97,4.74,8.22,0.95
+CLX,Household & Personal Products,148.03,18.24,3.68,40.23,3.08,0.2,1.57,2.48,0.49
 CMCS,,,,,,,,,,
-CME,Financial Data & Stock Exchanges,236.52,85.23,9.51,24.87,4.4,2.91,93.42,3.43,26.74
-CMG,Restaurants,58.35,79.51,1.08,54.03,,0.56,1.03,,3.06
-CMI,Specialty Industrial Machinery,356.25,48.87,15.28,23.31,2.04,2.18,12.9,4.8,9.91
-CMS,Utilities - Regulated Electric,66.0,19.72,3.5,18.86,3.12,0.23,2.9,14.51,8.13
-CNC,Healthcare Plans,64.03,32.33,5.79,11.06,,17.19,36.72,17.71,25.95
-CNP,Utilities - Regulated Electric,32.57,21.23,1.5,21.71,2.7,0.09,3.86,17.56,9.67
-COF,Credit Services,203.71,77.66,11.57,17.61,1.24,43.3,,49.32,58.08
-COO,Medical Instruments & Supplies,96.55,19.27,1.96,49.26,0.02,0.11,1.02,2.55,8.09
-COP,Oil & Gas E&P,98.83,127.84,8.43,11.72,3.16,5.63,10.01,17.02,49.27
-COR,Medical Distribution,254.21,49.28,7.52,33.8,0.87,3.13,54.28,3.81,0.79
-COST,Discount Stores,979.88,434.97,17.05,57.47,0.47,9.91,35.46,5.79,23.62
-CPAY,Software - Infrastructure,380.49,26.52,14.0,27.18,,1.39,6.83,4.6,3.29
-CPB,Packaged Foods,38.77,11.56,1.83,21.19,3.25,0.11,3.58,5.71,3.79
-CPRT,Specialty Business Services,57.93,55.82,1.43,40.51,,1.51,0.63,,7.55
-CPT,REIT - Residential,113.71,12.13,3.17,35.87,3.62,0.26,0.43,3.72,5.05
-CRL,Diagnostics & Research,164.76,8.47,7.97,20.67,,0.28,1.06,2.65,3.66
-CRM,Software - Application,341.7,328.8,6.05,56.48,0.48,8.47,26.63,8.43,59.64
-CRWD,Software - Infrastructure,398.07,98.05,0.52,765.52,,3.38,2.7,0.74,2.34
-CSCO,Communication Equipment,60.6,241.36,2.33,26.01,2.65,7.51,40.58,19.62,45.45
-CSGP,Real Estate Services,76.6,31.4,0.42,182.38,,5.22,0.46,0.99,7.34
-CSX,Railroads,32.87,63.39,1.79,18.36,1.43,1.35,3.22,17.98,12.14
-CTAS,Specialty Business Services,200.57,80.94,4.15,48.33,0.76,0.34,1.83,2.03,4.32
-CTRA,Oil & Gas E&P,27.72,20.41,1.65,16.8,3.03,0.96,1.66,1.59,13.03
-CTSH,Information Technology Services,82.61,40.96,4.52,18.28,1.45,2.62,3.33,0.61,13.22
-CTVA,Agricultural Inputs,65.27,45.46,0.95,68.71,1.03,2.64,10.41,2.29,25.28
-CVS,Healthcare Plans,56.48,71.07,3.94,14.34,4.71,8.2,79.19,58.64,76.64
-CVX,Oil & Gas Integrated,149.19,278.71,8.68,17.19,4.17,8.18,32.26,19.73,161.93
-CZR,Resorts & Casinos,36.05,7.66,-1.68,,,1.0,2.69,12.22,4.72
-D,Utilities - Regulated Electric,55.59,46.7,2.71,20.51,4.8,0.18,24.48,33.06,27.53
-DAL,Airlines,67.27,43.41,5.33,12.62,0.98,2.74,26.42,17.07,11.1
-DAY,Software - Application,70.74,11.16,0.34,208.06,,0.57,5.33,1.21,2.4
+CME,Financial Data & Stock Exchanges,245.35,88.41,9.51,25.8,4.26,2.91,93.42,3.43,26.74
+CMG,Restaurants,57.03,77.29,1.11,51.37,,0.75,1.17,,3.65
+CMI,Specialty Industrial Machinery,370.39,50.89,28.39,13.05,2.09,2.18,12.9,4.8,9.91
+CMS,Utilities - Regulated Electric,68.09,20.34,3.32,20.51,3.07,0.23,2.9,14.51,8.13
+CNC,Healthcare Plans,58.61,29.07,6.31,9.29,,17.19,36.72,17.71,25.95
+CNP,Utilities - Regulated Electric,32.35,21.08,1.5,21.56,2.71,0.09,3.86,17.56,9.67
+COF,Credit Services,204.29,77.88,11.57,17.66,1.24,43.3,,49.32,58.08
+COO,Medical Instruments & Supplies,93.92,18.74,1.96,47.92,0.02,0.11,1.02,2.55,8.09
+COP,Oil & Gas E&P,99.29,128.44,7.81,12.71,3.11,5.63,10.01,17.02,49.27
+COR,Medical Distribution,247.65,48.02,7.04,35.18,0.87,3.13,54.28,3.81,0.79
+COST,Discount Stores,1045.95,464.3,17.03,61.42,0.47,9.91,35.46,5.79,23.62
+CPAY,Software - Infrastructure,374.69,26.12,13.98,26.8,,1.39,6.83,4.6,3.29
+CPB,Packaged Foods,37.45,11.16,1.83,20.46,3.25,0.11,3.58,5.71,3.79
+CPRT,Specialty Business Services,58.14,56.02,1.43,40.66,,1.51,0.63,,7.55
+CPT,REIT - Residential,118.79,12.67,1.49,79.72,3.5,0.26,0.43,3.72,5.05
+CRL,Diagnostics & Research,163.82,8.38,8.01,20.45,,0.28,1.06,2.65,3.66
+CRM,Software - Application,327.07,313.0,6.05,54.06,0.48,8.47,26.63,8.43,59.64
+CRWD,Software - Infrastructure,423.07,104.21,0.5,846.13,,3.38,2.7,0.74,2.34
+CSCO,Communication Equipment,62.75,249.92,2.33,26.93,2.57,7.51,40.58,19.62,45.45
+CSGP,Real Estate Services,77.38,31.72,0.42,184.24,,5.22,0.46,0.99,7.34
+CSX,Railroads,32.61,62.89,1.79,18.22,1.43,1.35,3.22,17.98,12.14
+CTAS,Specialty Business Services,203.42,82.09,4.15,49.02,0.76,0.34,1.83,2.03,4.32
+CTRA,Oil & Gas E&P,27.51,20.26,1.65,16.67,3.07,0.96,1.66,1.59,13.03
+CTSH,Information Technology Services,85.93,42.54,4.51,19.05,1.44,2.62,3.33,0.61,13.22
+CTVA,Agricultural Inputs,62.59,42.91,1.22,51.3,1.07,2.64,10.41,2.29,25.28
+CVS,Healthcare Plans,54.25,68.27,3.94,13.77,4.9,8.2,79.19,58.64,76.64
+CVX,Oil & Gas Integrated,153.3,269.04,9.72,15.77,4.17,8.18,32.26,19.73,161.93
+CZR,Resorts & Casinos,35.81,7.61,-1.68,,,1.0,2.69,12.22,4.72
+D,Utilities - Regulated Electric,54.45,45.74,2.71,20.09,4.91,0.18,24.48,33.06,27.53
+DAL,Airlines,68.48,44.19,5.33,12.85,0.98,2.74,26.42,17.07,11.1
+DAY,Software - Application,65.47,10.41,0.11,595.18,,0.57,5.33,1.21,2.4
 DD	,,,,,,,,,,
-DE,Farm & Heavy Construction Machinery,476.56,129.79,25.64,18.59,1.45,7.32,38.33,43.23,22.93
-DECK,Footwear & Accessories,177.36,33.9,4.9,36.2,,1.5,0.72,,2.11
-DELL,Computer Hardware,103.6,72.28,5.65,18.34,1.26,7.37,48.49,19.01,-2.31
-DFS,Credit Services,201.09,50.54,17.72,11.35,1.42,11.69,,20.58,14.23
-DG,Discount Stores,71.06,15.63,6.06,11.73,2.97,0.54,6.73,6.23,6.75
-DGX,Diagnostics & Research,163.1,18.04,7.68,21.24,1.93,0.69,1.81,4.41,6.42
-DHI,Residential Construction,141.9,45.53,14.13,10.04,1.08,4.52,2.04,5.92,25.82
-DHR,Diagnostics & Research,222.74,160.17,5.28,42.19,0.48,5.86,8.27,16.71,53.49
-DIS,Entertainment,113.06,205.13,2.71,41.72,0.82,6.0,34.6,38.97,105.52
-DLR,REIT - Specialty,163.86,55.4,1.23,133.22,2.98,1.63,4.81,15.61,20.99
-DLTR,Discount Stores,73.35,15.77,-4.7,,,0.68,4.7,3.43,7.31
-DOC,REIT - Healthcare Facilities,20.66,14.45,0.49,42.16,5.85,0.12,1.38,6.16,6.93
-DOV,Specialty Industrial Machinery,203.68,27.94,10.08,20.21,1.04,0.4,2.5,2.99,5.11
-DOW,Chemicals,39.05,27.48,1.57,24.87,6.82,2.99,9.96,14.03,19.11
-DPZ,Restaurants,449.12,15.51,16.26,27.62,1.34,0.11,0.55,4.93,-4.08
-DRI,Restaurants,195.24,22.87,8.75,22.31,3.5,0.19,2.19,1.42,2.24
-DTE,Utilities - Regulated Electric,119.88,24.83,7.38,16.24,3.64,0.03,5.88,17.41,11.06
-DUK,Utilities - Regulated Electric,111.99,86.51,5.57,20.11,3.73,0.25,17.28,72.45,50.18
-DVA,Medical Care Facilities,176.2,14.45,9.29,18.97,,0.38,2.64,8.27,2.74
-DVN,Oil & Gas E&P,34.1,22.4,5.4,6.31,4.25,0.88,2.95,5.67,12.22
-DXCM,Medical Devices,86.83,33.92,1.65,52.62,,0.57,1.56,2.43,2.06
-EA,Electronic Gaming & Multimedia,122.91,32.24,3.9,31.52,0.62,2.9,3.09,1.88,7.51
-EBAY,Internet Retail,67.48,32.34,3.97,17.0,1.6,1.99,4.52,6.97,6.4
-ECL,Specialty Chemicals,250.19,70.84,7.13,35.09,1.04,0.92,4.35,7.55,8.08
-ED,Utilities - Regulated Electric,93.74,32.48,5.32,17.62,3.63,1.19,6.46,21.93,21.16
-EFX,Consulting Services,274.78,34.06,4.51,60.93,0.57,0.22,2.02,4.75,4.69
-EG,Insurance - Reinsurance,347.51,14.94,64.12,5.42,2.3,1.44,,1.06,13.2
-EIX,Utilities - Regulated Electric,54.0,20.91,3.42,15.79,6.13,0.34,8.6,30.32,17.95
-EL,Household & Personal Products,83.43,29.95,0.56,148.98,1.68,3.4,5.7,7.27,5.32
-ELV,Healthcare Plans,395.7,91.77,25.68,15.41,1.67,6.53,,23.25,39.41
-EMN,Specialty Chemicals,99.65,11.48,7.67,12.99,3.58,0.55,2.58,4.3,5.53
-EMR,Specialty Industrial Machinery,129.95,74.01,2.82,46.08,1.62,3.59,5.74,7.16,27.51
-ENPH,Solar,62.28,8.41,0.46,135.39,,0.29,0.53,1.29,0.98
-EOG,Oil & Gas E&P,125.79,70.75,12.39,10.15,3.1,5.28,4.07,3.58,28.09
-EPAM,Information Technology Services,253.96,14.4,7.69,33.02,,2.04,0.64,0.03,3.47
-EQIX,REIT - Specialty,913.66,88.16,11.06,82.61,1.87,2.1,3.16,12.73,12.51
-EQR,REIT - Residential,70.63,27.62,2.37,29.8,3.82,0.05,0.84,6.98,11.57
-EQT,Oil & Gas E&P,51.12,30.5,0.75,68.16,1.23,0.08,2.04,5.5,14.79
-ERIE,Insurance Brokers,402.95,21.07,10.68,37.73,1.36,0.13,,,1.66
-ES,Utilities - Regulated Electric,57.68,21.13,-1.61,,5.22,0.05,6.34,23.96,14.33
-ESS,REIT - Residential,284.57,18.95,8.57,33.21,3.44,0.39,0.35,6.21,5.62
-ETN,Specialty Industrial Machinery,326.44,129.01,9.5,34.36,1.15,0.49,7.75,8.24,19.07
-ETR,Utilities - Regulated Electric,81.08,34.77,4.12,19.68,2.96,0.13,6.4,23.01,14.74
-EVRG,Utilities - Regulated Electric,64.17,14.78,3.7,17.34,4.16,0.03,3.51,11.05,9.69
-EW,Medical Devices,72.45,43.19,2.56,28.3,,1.14,1.2,0.6,6.72
-EXC,Utilities - Regulated Electric,40.0,40.19,2.43,16.46,3.8,0.45,9.59,40.08,25.76
-EXPD,Integrated Freight & Logistics,113.58,15.9,5.13,22.14,1.29,1.51,1.7,,2.39
-EXPE,Travel Services,170.95,21.94,7.69,22.23,,4.22,11.78,6.25,2.78
-EXR,REIT - Industrial,154.0,33.97,3.76,40.96,4.21,0.1,1.09,10.33,15.42
-F,Auto Manufacturers,10.08,40.06,0.88,11.45,5.95,24.86,101.53,99.56,42.8
-FANG,Oil & Gas E&P,164.36,47.99,17.32,9.49,5.04,0.58,2.11,6.64,17.43
-FAST,Industrial Distribution,73.24,41.99,2.0,36.62,2.09,0.22,0.66,0.2,3.35
-FCX,Copper,35.85,52.65,1.3,27.58,1.53,4.76,5.82,8.66,27.31
-FDS,Financial Data & Stock Exchanges,474.41,18.04,13.95,34.01,0.88,0.42,0.67,1.24,1.92
-FDX,Integrated Freight & Logistics,264.87,63.79,15.65,16.92,2.0,6.5,13.36,20.14,27.59
-FE,Utilities - Regulated Electric,39.8,22.94,1.55,25.68,4.27,0.14,5.39,22.89,10.92
-FFIV,Software - Infrastructure,297.26,17.25,10.05,29.58,,1.07,1.49,,3.13
-FI,Information Technology Services,216.04,122.91,5.18,41.71,,1.2,33.55,21.71,30.67
-FICO,Software - Application,1873.56,45.8,20.42,91.75,,0.15,0.38,2.19,-0.96
-FIS,Information Technology Services,81.47,43.86,0.97,83.99,1.96,0.44,18.32,12.97,19.09
-FITB,Banks - Regional,44.31,29.68,3.14,14.11,3.34,3.14,,16.38,19.17
-FMC,Agricultural Inputs,55.78,6.96,12.19,4.58,4.16,0.3,3.38,3.02,4.44
-FOX,Entertainment,48.6,22.77,4.09,11.88,1.11,4.32,2.95,6.6,11.05
-FOXA,Entertainment,51.18,22.77,4.09,12.51,1.06,4.32,2.95,6.6,11.05
-FRT,REIT - Retail,108.63,9.3,3.44,31.58,4.05,0.25,0.3,4.6,3.23
-FSLR,Solar,167.52,17.93,11.61,14.43,,1.95,1.31,0.46,6.69
-FTNT,Software - Infrastructure,100.88,77.32,1.99,50.69,,1.4,3.72,0.99,-0.46
-FTV,Scientific & Technical Instruments,81.33,28.22,2.5,32.53,0.39,1.89,1.79,3.65,10.32
-GD,Aerospace & Defense,256.98,69.47,13.62,18.87,2.16,1.91,16.43,8.75,21.3
-GDDY,Software - Infrastructure,212.65,29.98,12.42,17.12,,0.46,2.68,3.8,0.06
-GE,Aerospace & Defense,203.57,218.57,6.09,33.43,0.59,16.97,50.88,19.71,28.57
-GEHC,Health Information Services,88.3,40.34,3.65,24.19,0.16,2.49,8.98,8.44,7.31
-GEN,Software - Infrastructure,26.91,17.19,0.97,27.74,1.79,0.85,2.65,8.43,2.2
-GEV,Utilities - Renewable,372.88,102.79,5.59,66.7,0.24,3.6,29.43,,8.96
-GILD,Drug Manufacturers - General,97.2,121.14,0.09,1080.0,3.18,6.08,11.28,23.19,22.74
-GIS,Packaged Foods,60.14,33.15,4.6,13.07,3.64,0.42,7.03,11.3,9.65
-GL,Insurance - Life,122.09,10.25,11.81,10.34,0.79,0.1,,1.63,4.49
-GLW,Electronic Components,52.08,44.54,0.58,89.79,2.19,1.78,4.32,7.21,11.87
-GM,Auto Manufacturers,49.46,49.25,6.37,7.76,0.87,19.87,96.27,90.3,65.59
-GNRC,Specialty Industrial Machinery,149.33,8.88,4.79,31.18,,0.2,0.88,1.38,2.35
-GOOG,Internet Content & Information,205.6,2506.16,7.55,27.23,0.39,24.05,81.81,11.87,283.38
-GOOG,Internet Content & Information,205.6,2506.16,7.55,27.23,0.39,24.05,81.81,11.87,283.38
-GPC,Auto Parts,116.25,16.16,7.77,14.96,3.44,1.1,7.83,3.55,4.42
-GPN,Specialty Business Services,112.85,28.72,5.3,21.29,0.89,2.09,8.13,15.69,23.79
-GRMN,Scientific & Technical Instruments,215.85,41.45,7.88,27.39,1.39,1.69,1.31,,7.01
-GS,Capital Markets,640.4,200.46,40.54,15.8,2.1,241.58,,247.87,116.9
-GWW,Industrial Distribution,1062.67,51.75,38.68,27.47,0.73,0.66,1.83,2.27,3.44
-HAL,Oil & Gas Equipment & Services,26.02,22.86,2.83,9.19,2.3,2.26,5.61,7.64,9.43
-HAS,Leisure,57.84,8.07,-4.64,,4.84,0.54,2.06,2.97,1.09
-HBAN,Banks - Regional,17.2,25.0,1.22,14.1,3.68,10.32,,12.39,19.4
-HCA,Medical Care Facilities,329.91,83.57,22.0,15.0,0.81,0.94,12.65,37.17,1.06
-HD,Home Improvement Retail,411.98,411.75,14.75,27.93,2.17,3.76,22.02,42.74,1.04
-HES,Oil & Gas E&P,139.03,42.84,8.98,15.48,1.38,1.69,3.27,8.3,9.61
-HIG,Insurance - Property & Casualty,111.55,32.08,10.35,10.78,1.82,0.13,,4.36,15.33
-HII,Aerospace & Defense,197.26,7.72,17.69,11.15,2.74,0.43,3.03,2.21,4.09
-HLT,Lodging,256.07,62.42,4.69,54.6,0.23,0.8,3.72,9.16,-2.35
-HOLX,Medical Instruments & Supplies,72.14,16.28,3.32,21.73,,2.16,1.04,2.5,5.13
-HON,Conglomerates,223.72,145.69,8.66,25.83,2.02,7.92,18.54,16.56,16.44
-HPE,Communication Equipment,21.19,27.87,1.93,10.98,2.4,14.85,25.97,13.5,24.88
-HPQ,Computer Hardware,32.5,30.48,2.81,11.57,2.82,3.24,28.69,8.26,-1.32
-HRL,Packaged Foods,29.98,16.46,1.47,20.39,3.65,0.74,1.4,2.85,8.0
-HSIC,Medical Distribution,80.0,9.93,2.44,32.79,,0.17,2.68,1.94,5.15
-HST,REIT - Hotel & Motel,16.71,11.84,1.03,16.22,4.79,1.14,1.46,3.22,6.82
-HSY,Confectioners,149.25,30.2,8.7,17.16,3.67,0.4,3.01,3.79,4.1
-HUBB,Electrical Equipment & Parts,423.01,22.7,13.87,30.5,1.25,0.34,1.32,2.02,2.89
-HUM,Healthcare Plans,293.23,35.31,11.47,25.56,1.21,4.69,,10.21,16.31
-HWM,Aerospace & Defense,126.58,51.42,2.59,48.87,0.32,0.61,1.78,3.5,4.04
-IBM,Information Technology Services,255.7,238.81,6.37,40.14,2.92,13.07,34.12,50.12,22.61
-IDXX,Diagnostics & Research,422.05,34.56,10.34,40.82,,0.45,0.95,0.62,1.48
-IEX,Specialty Industrial Machinery,224.31,16.99,6.46,34.72,1.23,0.53,0.5,1.33,3.55
-IFF,Specialty Chemicals,87.09,22.27,-9.08,,1.84,0.7,3.76,9.19,14.64
-INCY,Biotechnology,74.16,14.29,0.09,824.0,,3.21,1.24,,5.19
-INTC,Semiconductors,19.43,84.13,-4.38,,2.24,7.08,28.05,46.98,109.96
-INTU,Software - Application,601.51,168.37,10.29,58.46,0.61,3.61,7.49,5.54,18.43
-INVH,REIT - Residential,31.15,19.08,0.72,43.26,3.74,0.7,0.2,8.55,10.19
-IP,Packaging & Containers,55.63,19.33,1.57,35.43,3.19,1.11,3.96,5.46,8.35
-IPG,Advertising Agencies,28.67,10.68,2.12,13.52,4.6,2.39,10.33,2.92,4.05
-IQV,Diagnostics & Research,201.36,36.55,7.61,26.46,,1.38,6.49,12.96,6.11
-IR,Specialty Industrial Machinery,93.8,37.8,2.05,45.76,0.09,1.6,1.83,2.69,9.84
-IRM,REIT - Specialty,101.57,29.81,0.36,282.14,2.82,0.22,2.24,11.81,0.39
-ISRG,Medical Instruments & Supplies,571.88,203.97,6.41,89.22,,2.75,1.66,,13.4
-IT,Information Technology Services,542.83,41.87,13.52,40.15,,1.32,3.78,2.45,0.68
-ITW,Specialty Industrial Machinery,259.16,76.53,11.56,22.42,2.32,1.06,4.67,6.34,3.01
-IVZ,Asset Management,19.23,8.62,1.18,16.3,4.62,1.93,1.25,8.61,15.91
-J,Engineering & Construction,140.13,17.38,4.79,29.25,0.83,1.14,4.08,1.35,5.39
-JBHT,Integrated Freight & Logistics,171.22,17.22,5.56,30.79,0.92,0.05,1.78,1.33,4.11
-JBL,Electronic Components,162.41,17.79,10.57,15.37,0.22,2.2,11.78,2.88,1.74
-JCI,Building Products & Equipment,78.0,51.49,2.08,37.5,1.9,0.61,11.96,8.0,17.37
-JKHY,Information Technology Services,174.09,12.7,5.47,31.83,1.26,0.04,0.63,0.06,1.84
-JNJ,Drug Manufacturers - General,152.15,366.32,5.8,26.23,3.35,21.86,46.28,25.88,68.78
-JNPR,Communication Equipment,34.86,11.54,0.76,45.87,2.52,1.07,2.1,1.62,4.49
-JPM,Banks - Diversified,267.3,747.8,19.75,13.53,2.02,624.15,,391.82,327.88
-K,Packaged Foods,81.73,28.17,2.99,27.33,2.79,0.27,5.06,5.09,3.37
-KDP,Beverages - Non-Alcoholic,32.1,43.54,1.66,19.34,2.87,0.27,8.92,9.95,25.68
-KEY,Banks - Regional,17.98,19.9,-0.32,,4.48,0.94,,19.55,14.64
-KEYS,Scientific & Technical Instruments,178.35,30.84,3.51,50.81,,1.8,1.43,1.79,5.11
-KHC,Packaged Foods,29.84,36.08,1.11,26.88,5.36,1.4,8.04,19.39,49.72
-KIM,REIT - Retail,22.45,15.13,0.54,41.57,4.45,0.78,0.22,7.62,9.72
-KKR,Asset Management,167.07,154.17,3.22,51.89,0.42,20.35,40.63,48.63,58.37
-KLAC,Semiconductor Equipment & Materials,738.24,98.75,23.77,31.06,0.92,1.98,4.66,5.88,3.36
-KMB,Household & Personal Products,129.97,43.12,7.55,17.21,3.71,1.09,6.93,7.42,1.06
-KMI,Oil & Gas Midstream,27.48,61.05,1.17,23.49,3.74,0.08,7.22,27.96,31.73
-KMX,Auto & Truck Dealerships,85.64,13.17,2.94,29.13,,0.57,2.31,17.96,6.08
-KO,Beverages - Non-Alcoholic,63.48,273.46,2.41,26.34,3.03,9.37,23.57,35.55,27.48
-KR,Grocery Stores,61.64,44.6,3.78,16.31,2.14,1.88,16.06,10.16,11.61
-KVUE,Household & Personal Products,21.29,40.82,0.55,38.71,3.85,1.38,5.48,7.69,11.21
-L,Insurance - Property & Casualty,85.45,18.51,7.52,11.36,0.29,0.4,,7.92,16.53
-LDOS,Information Technology Services,142.03,18.95,8.79,16.16,1.13,0.78,2.99,4.66,4.26
-LEN,Residential Construction,131.24,34.67,14.31,9.17,1.37,4.91,1.84,4.19,28.02
-LH,Diagnostics & Research,249.8,20.89,5.27,47.4,1.15,0.54,3.23,4.05,7.9
-LHX,Aerospace & Defense,212.01,40.21,7.87,26.94,2.19,0.56,8.0,11.16,18.83
-LII,Building Products & Equipment,592.42,21.09,22.51,26.32,0.69,0.06,1.01,1.11,0.29
-LIN,Specialty Chemicals,446.12,212.42,13.16,33.9,1.25,4.66,15.72,13.4,41.09
-LKQ,Auto Parts,37.39,9.72,2.71,13.8,3.21,0.3,3.32,3.65,6.18
-LLY,Drug Manufacturers - General,811.08,729.42,9.25,87.68,0.74,2.82,27.29,18.32,10.87
-LMT,Aerospace & Defense,462.95,108.97,22.31,20.75,2.62,2.48,19.42,19.63,6.34
-LNT,Utilities - Regulated Electric,58.88,15.11,2.57,22.91,3.45,0.06,2.3,8.22,6.78
-LOW,Home Improvement Retail,260.04,146.83,12.01,21.65,1.69,0.92,15.57,35.38,-15.04
-LRCX,Semiconductor Equipment & Materials,81.05,104.15,3.29,24.64,1.22,5.85,4.34,4.47,8.53
-LULU,Apparel Retail,414.2,50.44,13.83,29.95,,2.24,1.63,,4.23
-LUV,Airlines,30.71,18.42,0.76,40.41,2.27,9.29,12.26,7.9,10.52
-LVS,Resorts & Casinos,45.83,33.23,1.96,23.38,1.84,5.11,4.42,12.13,4.11
-LW,Packaged Foods,59.94,8.55,2.54,23.6,1.84,0.07,1.62,3.44,1.79
-LYB,Specialty Chemicals,75.7,24.53,6.59,11.49,7.08,3.39,7.15,10.33,13.06
-LYV,Entertainment,144.68,33.36,0.9,160.76,,6.23,9.96,5.46,1.48
-MA,Credit Services,555.43,507.7,13.89,39.99,0.55,8.59,16.26,14.34,7.0
-MAA,REIT - Residential,152.58,18.3,4.44,34.36,3.97,0.04,1.06,4.05,6.29
-MAR,Lodging,290.59,80.75,9.56,30.4,0.87,0.34,7.76,11.32,-0.69
-MAS,Building Products & Equipment,79.28,17.1,3.76,21.09,1.46,0.63,1.7,2.94,0.11
-MCD,Restaurants,288.7,206.89,11.4,25.32,2.44,4.58,6.86,37.15,-4.7
-MCHP,Semiconductors,54.3,29.16,1.44,37.71,3.35,0.32,2.52,5.0,6.65
-MCK,Medical Distribution,594.75,75.5,19.33,30.77,0.48,4.58,52.36,5.58,-1.6
-MCO,Financial Data & Stock Exchanges,499.44,90.51,10.94,45.65,0.68,,,,
-MDLZ,Confectioners,57.99,77.54,2.82,20.56,3.24,1.81,19.01,16.89,28.37
-MDT,Medical Devices,90.82,116.46,3.27,27.77,3.2,1.28,10.79,23.88,50.42
-MET,Insurance - Life,86.51,59.9,4.93,17.55,2.52,20.64,,18.68,30.25
-META,Internet Content & Information,689.18,1746.15,23.85,28.9,0.3,43.89,33.6,28.83,182.63
-MGM,Resorts & Casinos,34.48,10.27,2.79,12.36,,2.93,3.13,6.34,4.37
-MHK,"Furnishings, Fixtures & Appliances",122.3,7.72,8.85,13.82,,0.64,3.15,1.7,7.63
-MKC,Packaged Foods,77.23,20.71,2.92,26.45,2.46,0.19,2.88,3.59,5.32
-MKTX,Capital Markets,220.63,8.32,7.39,29.86,1.34,0.45,0.58,,1.3
-MLM,Building Materials,544.12,33.26,32.21,16.89,0.58,1.27,1.17,3.95,8.03
-MMC,Insurance Brokers,216.88,106.51,8.18,26.51,1.49,3.36,19.8,11.84,12.37
-MMM,Conglomerates,152.2,82.11,7.26,20.96,1.99,5.93,15.3,13.09,4.87
-MNST,Beverages - Non-Alcoholic,48.71,47.37,1.56,31.22,,2.3,1.16,,8.23
-MO,Tobacco,52.23,88.3,6.54,7.99,7.75,3.69,11.32,25.11,-3.49
-MOH,Healthcare Plans,310.41,17.76,19.65,15.8,,4.85,8.17,2.18,4.21
-MOS,Agricultural Inputs,27.89,8.86,1.13,24.68,3.16,0.35,3.87,3.23,12.43
-MPC,Oil & Gas Refining & Marketing,145.71,46.83,12.9,11.3,2.5,5.44,20.15,25.33,31.4
-MPWR,Semiconductors,637.37,31.09,8.86,71.94,0.78,0.53,0.24,,2.05
-MRK,Drug Manufacturers - General,98.82,249.98,4.78,20.67,3.28,6.84,25.69,33.68,37.63
-MRNA,Biotechnology,39.42,15.17,-5.81,,,2.91,3.02,,13.86
-MS,Capital Markets,138.43,222.46,7.95,17.41,2.83,58.66,,267.47,99.98
-MSCI,Financial Data & Stock Exchanges,596.77,46.77,14.02,42.57,1.02,0.46,1.52,4.5,-0.74
-MSFT,Software - Infrastructure,415.06,3085.55,12.41,33.45,0.75,18.32,125.29,42.69,268.47
-MSI,Communication Equipment,469.25,78.42,9.15,51.28,0.93,1.71,5.74,4.71,0.74
-MTB,Banks - Regional,201.24,33.39,14.63,13.76,2.69,29.8,,8.2,26.95
-MTCH,Internet Content & Information,35.7,8.96,2.23,16.01,2.13,0.86,0.53,3.84,-0.02
-MTD,Diagnostics & Research,1364.44,28.79,37.11,36.77,,0.07,1.18,1.89,-0.15
-MU,Semiconductors,91.24,101.66,3.49,26.14,0.44,7.04,9.25,11.24,45.13
-NCLH,Travel Services,28.35,12.47,1.14,24.87,,0.4,6.04,12.31,0.3
-NDAQ,Financial Data & Stock Exchanges,82.34,47.33,1.93,42.66,1.18,0.45,9.03,10.16,10.82
-NDSN,Specialty Industrial Machinery,220.22,12.57,8.1,27.19,1.25,0.12,0.53,2.1,2.93
-NEE,Utilities - Regulated Electric,71.56,147.16,3.37,21.23,2.98,2.69,27.96,61.41,57.77
-NEM,Gold,42.72,48.63,-2.19,,2.32,3.0,6.0,6.95,29.21
-NFLX,Entertainment,976.76,417.82,19.83,49.26,,7.8,10.76,13.8,24.74
-NI,Utilities - Regulated Gas,37.3,17.41,1.64,22.74,3.0,2.25,5.27,11.06,10.14
-NKE,Footwear & Accessories,76.9,113.75,3.24,23.73,2.08,9.86,10.59,7.9,14.43
-NOC,Aerospace & Defense,487.27,70.54,28.36,17.18,1.71,4.35,14.13,14.69,15.29
-NOW,Software - Application,1018.38,210.28,6.82,149.32,,2.3,8.36,1.49,9.61
-NRG,Utilities - Independent Power Producers,102.44,20.75,4.04,25.36,1.72,0.54,9.5,10.13,2.91
-NSC,Railroads,255.3,57.78,11.57,22.07,2.14,1.57,2.63,17.18,12.78
-NTAP,Computer Hardware,122.1,24.82,5.43,22.49,1.64,1.9,4.11,1.99,1.15
-NTRS,Asset Management,112.29,22.01,9.77,11.49,2.74,41.06,,13.41,11.89
-NUE,Steel,128.43,30.16,8.46,15.18,1.8,6.38,4.59,6.46,22.12
-NVDA,Semiconductors,120.07,2940.51,2.53,47.46,0.03,7.28,10.63,8.46,42.98
-NVR,Residential Construction,8016.18,24.92,506.62,15.82,,3.16,1.22,0.91,4.36
-NWS,Entertainment,31.65,16.62,0.62,51.05,0.63,1.96,3.06,2.85,9.01
-NWSA,Entertainment,28.12,16.62,0.62,45.35,0.71,1.96,3.06,2.85,9.01
-NXPI,Semiconductors,208.55,53.0,10.47,19.92,1.94,3.65,4.11,10.18,8.96
-O,REIT - Retail,54.64,47.82,1.05,52.04,5.8,0.23,1.89,20.76,33.11
-ODFL,Trucking,185.61,39.63,5.72,32.45,0.56,0.43,0.54,0.06,4.26
-OKE,Oil & Gas Midstream,97.17,56.65,4.72,20.59,4.24,0.34,3.45,21.18,16.49
-OMC,Advertising Agencies,86.79,17.05,7.32,11.86,3.23,4.43,16.25,4.89,4.64
-ON,Semiconductors,52.34,22.29,4.03,12.99,,2.48,2.18,2.54,7.81
-ORCL,Software - Infrastructure,170.06,475.65,4.1,41.48,0.83,10.45,31.54,76.26,9.24
-ORLY,Specialty Retail,1294.42,74.73,40.39,32.05,,0.28,7.66,5.57,-1.74
-OTIS,Specialty Industrial Machinery,95.42,38.12,4.07,23.44,1.63,1.27,6.48,6.87,-4.72
-OXY,Oil & Gas E&P,46.65,43.77,3.65,12.78,1.89,1.43,9.15,17.95,30.35
-PANW,Software - Infrastructure,184.42,121.02,3.85,47.9,,1.54,7.68,,5.17
-PARA,Entertainment,10.88,7.74,-9.06,,1.84,2.46,9.66,14.6,23.05
-PAYC,Software - Application,207.56,11.97,8.3,25.01,0.72,0.29,2.53,,1.31
-PAYX,Software - Application,147.67,53.17,4.75,31.09,2.89,1.47,5.31,0.8,3.8
-PCAR,Farm & Heavy Construction Machinery,110.88,58.15,7.89,14.05,1.2,7.18,12.81,9.17,15.88
-PCG,Utilities - Regulated Electric,15.65,34.33,1.28,12.23,0.64,0.64,17.31,50.98,25.29
-PEG,Utilities - Regulated Electric,83.54,41.62,4.07,20.53,2.87,0.05,5.06,17.78,15.48
-PEP,Beverages - Non-Alcoholic,150.69,206.75,6.78,22.23,3.57,9.71,31.65,37.59,18.64
-PFE,Drug Manufacturers - General,26.52,150.29,0.75,35.36,6.49,2.85,47.79,60.5,89.29
-PFG,Asset Management,82.45,18.86,-0.74,,3.54,4.71,,3.93,11.21
-PG,Household & Personal Products,165.99,389.22,6.27,26.47,2.49,9.48,33.63,25.27,50.56
-PGR,Insurance - Property & Casualty,246.44,144.37,14.39,17.13,1.99,0.08,,6.89,20.28
-PH,Specialty Industrial Machinery,707.05,91.04,24.18,29.24,0.98,0.42,7.31,7.16,12.08
-PHM,Residential Construction,113.78,23.33,14.69,7.75,0.78,1.81,1.56,2.46,10.39
-PKG,Packaging & Containers,212.66,19.1,8.93,23.81,2.1,0.65,1.27,2.47,4.0
-PLD,REIT - Industrial,119.25,110.45,3.32,35.92,3.27,0.53,3.26,28.02,57.82
-PLTR,Software - Infrastructure,82.49,187.91,0.2,412.45,,0.83,0.75,,3.56
-PM,Tobacco,130.2,202.44,6.3,20.67,4.15,3.06,26.38,41.24,-9.45
-PNC,Banks - Regional,200.95,79.56,13.74,14.63,3.19,50.73,,72.74,51.14
-PNR,Specialty Industrial Machinery,103.68,17.13,4.0,25.92,0.96,0.17,0.95,1.99,3.21
-PNW,Utilities - Regulated Electric,86.96,9.89,5.32,16.35,4.12,,2.89,7.54,6.28
-PODD,Medical Devices,278.38,19.53,5.87,47.42,,0.7,0.45,1.37,0.73
-POOL,Industrial Distribution,344.25,13.1,11.64,29.57,1.39,0.07,0.77,1.02,1.31
-PPL,Utilities - Regulated Electric,33.6,24.8,1.11,30.27,3.07,0.33,3.34,14.61,13.94
-PRU,Insurance - Life,120.76,42.98,11.23,10.75,4.31,19.42,,20.0,29.78
-PSA,REIT - Industrial,298.48,52.29,9.64,30.96,4.02,0.37,0.6,9.1,10.11
-PSX,Oil & Gas Refining & Marketing,117.87,48.68,4.99,23.62,3.81,3.32,15.86,17.88,31.65
-PTC,Software - Application,193.48,23.29,3.12,62.01,,0.27,1.67,1.23,3.21
-PWR,Engineering & Construction,307.61,45.41,5.41,56.86,0.13,1.29,5.21,3.66,6.29
-PYPL,Credit Services,88.58,88.8,4.18,21.19,,9.08,48.47,9.68,21.05
-QCOM,Semiconductors,172.93,191.16,8.94,19.34,1.97,7.85,10.5,13.27,26.27
-RCL,Travel Services,266.6,71.69,11.01,24.21,0.93,0.5,9.4,19.73,4.9
-REG,REIT - Retail,71.84,13.12,2.12,33.89,3.93,0.08,0.51,4.0,7.2
-REGN,Biotechnology,672.98,73.95,40.45,16.64,,2.73,3.42,1.98,25.97
-RF,Banks - Regional,24.64,22.39,1.93,12.77,4.08,6.8,,2.33,17.49
-RJF,Asset Management,168.48,34.47,10.24,16.45,1.16,11.0,,3.09,11.66
-RL,Apparel Manufacturing,249.7,15.51,10.49,23.8,1.32,1.66,1.47,1.14,2.45
-RMD,Medical Instruments & Supplies,236.18,34.69,8.48,27.85,0.82,0.24,0.91,0.7,4.86
-ROK,Specialty Industrial Machinery,278.43,31.47,8.27,33.67,1.88,0.47,3.6,2.56,3.67
-ROL,Personal Services,49.5,23.97,0.97,51.03,1.33,0.1,0.58,0.49,1.16
-ROP,Software - Application,575.65,61.73,14.33,40.17,0.61,0.21,2.96,5.83,17.45
-ROST,Apparel Retail,150.56,49.67,6.35,23.71,1.03,4.87,4.19,2.21,4.87
-RSG,Waste Management,216.87,67.91,6.25,34.7,1.07,0.14,4.23,11.89,10.54
-RTX,Aerospace & Defense,128.95,171.64,3.55,36.32,2.02,6.59,46.76,42.35,61.45
-RVTY,Diagnostics & Research,126.13,15.35,2.3,54.84,0.22,0.91,1.45,3.18,7.87
-SBAC,REIT - Specialty,197.56,21.24,6.34,31.16,1.98,0.21,1.36,11.68,-5.13
-SBUX,Restaurants,107.68,122.32,3.1,34.74,2.43,3.29,9.07,14.32,-7.44
-SCHW,Capital Markets,82.72,151.42,2.99,27.67,1.24,43.34,,26.04,40.96
-SHW,Specialty Chemicals,358.16,90.2,10.57,33.88,0.79,0.28,6.63,8.38,3.71
-SJM,Packaged Foods,106.89,11.37,4.95,21.59,3.8,0.06,3.76,6.77,7.69
-SLB,Oil & Gas Equipment & Services,40.28,56.43,3.11,12.95,2.68,3.54,12.81,11.02,22.35
-SMCI,Computer Hardware,28.52,16.7,2.01,14.19,,0.44,1.37,0.12,1.97
-SNA,Tools & Accessories,355.15,18.64,19.46,18.25,2.41,1.0,0.94,1.18,5.09
-SNPS,Software - Infrastructure,525.48,81.23,9.25,56.81,,3.9,2.65,0.02,9.02
-SO,Utilities - Regulated Electric,83.95,91.98,4.29,19.57,3.43,0.75,13.47,57.21,35.22
-SOLV,Health Information Services,74.06,12.79,0.39,189.9,,0.6,1.77,8.3,3.41
-SPG,REIT - Retail,173.86,65.28,7.53,23.09,4.83,1.17,3.46,25.97,3.68
-SPGI,Financial Data & Stock Exchanges,521.41,161.79,11.31,46.1,0.74,1.29,6.12,11.41,38.1
-SRE,Utilities - Diversified,82.93,52.53,4.54,18.27,2.99,0.24,10.09,27.76,33.65
-STE,Medical Devices,220.65,21.78,5.96,37.02,1.03,0.21,0.93,3.12,6.31
-STLD,Steel,128.2,19.9,9.65,13.28,1.5,1.4,2.33,2.61,8.84
-STT,Asset Management,101.62,29.34,8.21,12.38,3.03,91.77,,15.48,23.8
-STX,Computer Hardware,96.36,20.81,5.4,17.84,2.84,1.36,3.1,5.2,-1.49
-STZ,Beverages - Brewers,180.8,33.32,3.67,49.26,1.84,0.15,3.14,10.68,10.06
-SW,Packaging & Containers,53.09,27.62,0.72,73.74,4.36,0.98,2.98,3.95,6.16
-SWK,Tools & Accessories,88.07,13.58,-1.24,,3.72,0.45,5.88,6.1,9.05
-SWKS,Semiconductors,88.76,14.27,3.69,24.05,3.35,1.37,0.6,0.99,6.33
-SYF,Credit Services,68.98,26.78,8.55,8.07,1.5,14.26,,15.98,13.9
-SYK,Medical Devices,391.29,149.17,7.75,50.49,0.85,2.97,7.92,10.9,18.59
-SYY,Food Distribution,72.92,35.67,3.9,18.7,2.65,0.7,9.24,11.51,1.89
-T,Telecom Services,23.73,170.29,1.49,15.93,4.89,6.72,51.13,127.85,119.42
-TAP,Beverages - Brewers,54.75,11.29,4.44,12.33,3.21,0.87,4.09,5.31,13.44
-TDG,Aerospace & Defense,1353.34,75.84,25.58,52.91,,6.26,6.34,24.3,-6.28
-TDY,Scientific & Technical Instruments,511.33,23.83,17.23,29.68,,0.65,1.77,2.64,9.23
-TECH,Biotechnology,73.55,11.69,0.95,77.42,0.44,0.15,0.16,0.32,2.06
-TEL,Electronic Components,147.97,44.15,6.33,23.38,1.75,1.32,4.75,3.33,12.48
-TER,Semiconductor Equipment & Materials,115.79,18.86,3.32,34.88,0.39,0.76,0.66,,2.53
-TFC,Banks - Regional,47.62,63.19,-0.3,,4.62,30.64,,38.92,59.25
-TFX,Medical Instruments & Supplies,180.24,8.37,5.05,35.69,0.75,0.22,0.61,1.73,4.44
-TGT,Discount Stores,137.91,63.19,9.43,14.62,2.87,3.81,19.3,14.92,13.44
-TJX,Apparel Retail,124.79,140.28,4.24,29.43,1.25,5.6,10.45,2.86,7.3
-TMO,Diagnostics & Research,597.75,228.64,16.56,36.1,0.27,8.08,14.01,31.31,46.85
-TMUS,Telecom Services,232.97,266.65,9.67,24.09,1.59,5.13,20.93,71.4,64.71
-TPL,Oil & Gas E&P,1297.17,29.8,19.46,66.66,0.49,0.73,0.06,,1.05
-TPR,Luxury Goods,72.94,17.0,3.45,21.14,1.92,6.14,1.71,6.94,2.9
-TRGP,Oil & Gas Midstream,196.8,42.91,5.53,35.59,1.52,0.14,2.76,12.09,4.61
-TRMB,Scientific & Technical Instruments,74.96,18.42,5.98,12.54,,0.23,1.83,2.54,4.5
-TROW,Asset Management,116.92,25.97,9.13,12.81,4.24,2.07,0.48,,10.29
-TRV,Insurance - Property & Casualty,245.18,55.56,21.48,11.41,1.76,0.65,,7.93,24.92
-TSCO,Specialty Retail,54.36,29.04,2.04,26.65,1.54,0.4,2.18,1.73,2.15
-TSLA,Auto Manufacturers,404.6,1301.4,2.02,200.3,,16.14,28.82,5.54,73.68
-TSN,Farm Products,56.49,20.12,2.25,25.11,3.54,1.72,4.79,9.71,18.51
-TT,Building Products & Equipment,362.75,81.63,11.35,31.96,0.92,1.1,6.05,3.98,7.02
-TTWO,Electronic Gaming & Multimedia,185.51,32.58,-21.2,,,0.75,2.41,3.06,5.67
-TXN,Semiconductors,184.61,168.4,5.21,35.43,2.71,2.96,3.32,10.62,16.9
-TXT,Aerospace & Defense,76.51,14.19,4.34,17.63,0.1,2.18,4.38,3.52,6.99
-TYL,Software - Application,601.64,25.75,5.47,109.99,,0.17,1.0,0.6,2.94
-UAL,Airlines,105.84,34.81,9.45,11.2,,6.06,22.2,25.06,9.32
-UBER,Software - Application,66.85,140.77,2.03,32.93,,4.68,9.45,9.46,12.68
-UDR,REIT - Residential,41.74,15.68,0.38,109.84,4.07,,0.85,5.39,4.95
-UHS,Medical Care Facilities,188.56,12.44,15.03,12.55,0.42,0.12,2.01,4.79,6.2
-ULTA,Specialty Retail,412.15,19.11,24.98,16.5,,0.77,1.66,,2.28
-UNH,Healthcare Plans,542.49,499.24,15.52,34.95,1.55,25.43,99.05,58.26,98.92
-UNP,Railroads,247.79,150.22,11.1,22.32,2.27,1.05,5.11,31.16,14.79
-UPS,Integrated Freight & Logistics,114.23,97.48,6.75,16.92,4.87,3.21,17.68,18.92,17.32
-URI,Rental & Leasing Services,758.06,49.51,38.66,19.61,0.86,0.46,3.32,12.23,8.62
-USB,Banks - Regional,47.78,74.54,3.79,12.61,3.93,61.19,,51.48,55.77
-V,Credit Services,341.8,659.34,9.91,34.49,0.69,11.97,26.52,20.84,39.14
-VICI,REIT - Diversified,29.77,31.38,2.7,11.03,5.81,0.52,0.66,16.72,25.66
-VLO,Oil & Gas Refining & Marketing,133.0,42.11,8.58,15.5,3.24,5.42,16.8,10.12,28.53
-VLTO,Pollution & Treatment Controls,103.39,25.57,3.24,31.91,0.43,0.76,1.26,2.63,1.39
-VMC,Building Materials,274.15,36.2,6.39,42.9,0.67,0.93,0.8,3.88,7.51
-VRSK,Consulting Services,287.44,40.59,6.47,44.43,0.54,0.3,0.77,2.83,0.33
-VRSN,Software - Infrastructure,215.0,20.66,8.58,25.06,,0.24,1.19,1.79,-1.58
-VRTX,Biotechnology,461.68,118.9,-1.89,,,10.37,3.55,,17.58
-VST,Utilities - Independent Power Producers,168.03,57.17,5.31,31.64,0.53,3.48,9.82,12.12,5.33
-VTR,REIT - Healthcare Facilities,60.42,25.35,-0.14,,2.98,0.51,1.18,13.48,9.55
-VTRS,Drug Manufacturers - Specialty & Generic,11.28,13.46,-0.73,,4.26,0.99,7.78,16.19,20.47
-VZ,Telecom Services,39.39,165.82,4.14,9.51,6.92,2.06,53.22,137.7,93.79
-WAB,Railroads,207.92,35.74,6.01,34.6,0.38,0.62,4.06,3.29,10.53
-WAT,Diagnostics & Research,415.48,24.67,10.47,39.68,,0.4,0.79,2.31,1.15
-WBA,Pharmaceutical Retailers,10.28,8.88,-10.24,,10.85,1.32,26.95,8.04,12.18
-WBD,Entertainment,10.44,26.05,-4.5,,,3.78,15.33,41.89,46.48
-WDAY,Software - Application,262.06,69.71,6.08,43.1,,2.01,5.05,2.98,8.08
-WDC,Computer Hardware,65.13,22.65,3.46,18.82,,1.88,6.09,5.68,11.05
-WEC,Utilities - Regulated Electric,99.26,31.4,4.09,24.27,3.6,0.04,5.11,15.37,12.07
-WELL,REIT - Healthcare Facilities,136.48,84.98,1.57,86.93,1.96,1.99,1.1,15.74,26.37
-WFC,Banks - Diversified,78.8,259.17,5.37,14.67,2.25,237.22,,207.57,187.44
-WM,Waste Management,220.26,88.4,6.81,32.34,1.43,0.46,4.23,15.89,6.89
-WMB,Oil & Gas Midstream,55.43,67.57,2.36,23.49,3.61,2.15,5.83,23.38,14.89
-WMT,Discount Stores,98.16,788.56,2.42,40.56,0.99,9.87,92.42,36.13,90.57
-WRB,Insurance - Property & Casualty,58.83,22.29,4.36,13.49,0.56,1.36,,2.83,7.47
-WST,Medical Instruments & Supplies,341.55,24.74,6.73,50.75,0.25,0.85,0.67,0.07,2.88
-WTW,Insurance Brokers,329.57,33.2,-7.22,,1.07,1.42,12.63,4.57,9.59
-WY,REIT - Specialty,30.62,22.23,0.54,56.7,2.58,1.16,0.79,5.07,10.23
-WYNN,Resorts & Casinos,86.85,9.54,8.33,10.43,1.15,2.88,2.2,11.03,-1.1
-XEL,Utilities - Regulated Electric,67.2,38.59,3.37,19.94,3.26,0.13,5.65,24.91,17.62
-XOM,Oil & Gas Integrated,106.83,465.03,7.84,13.63,3.61,31.54,65.32,33.65,212.54
-XYL,Specialty Industrial Machinery,124.04,30.13,3.49,35.54,1.16,1.02,2.21,2.27,10.17
-YUM,Restaurants,130.5,36.42,5.35,24.39,2.05,0.51,1.28,11.1,-7.86
-ZBH,Medical Devices,109.48,21.79,5.24,20.89,0.88,0.42,2.86,5.01,12.49
-ZBRA,Communication Equipment,391.94,20.22,7.37,53.18,,0.14,1.6,2.05,3.04
-ZTS,Drug Manufacturers - Specialty & Generic,170.9,77.1,5.31,32.18,1.17,2.04,1.89,6.56,5.0
+DE,Farm & Heavy Construction Machinery,464.07,126.39,25.62,18.11,1.45,7.32,38.33,43.23,22.93
+DECK,Footwear & Accessories,169.09,25.66,6.16,27.45,,1.5,0.72,,2.11
+DELL,Computer Hardware,106.9,74.58,5.65,18.92,1.26,7.37,48.49,19.01,-2.31
+DFS,Credit Services,200.96,50.5,17.72,11.34,1.42,11.69,,20.58,14.23
+DG,Discount Stores,72.26,15.89,6.06,11.92,2.97,0.54,6.73,6.23,6.75
+DGX,Diagnostics & Research,162.52,17.98,7.69,21.13,1.93,0.69,1.81,4.41,6.42
+DHI,Residential Construction,129.1,41.42,14.13,9.14,1.08,4.52,2.04,5.92,25.82
+DHR,Diagnostics & Research,206.95,148.81,5.29,39.12,0.48,5.86,8.27,16.71,53.49
+DIS,Entertainment,111.15,200.94,3.08,36.09,0.82,6.0,34.6,38.97,105.52
+DLR,REIT - Specialty,167.35,56.58,1.23,136.06,2.9,1.63,4.81,15.61,20.99
+DLTR,Discount Stores,72.97,15.69,-4.7,,,0.68,4.7,3.43,7.31
+DOC,REIT - Healthcare Facilities,19.83,13.88,0.36,55.1,5.81,0.12,0.88,8.57,9.06
+DOV,Specialty Industrial Machinery,202.35,27.76,10.09,20.05,1.04,0.4,2.5,2.99,5.11
+DOW,Chemicals,38.53,27.12,1.57,24.54,6.82,2.19,10.29,14.77,17.85
+DPZ,Restaurants,467.18,16.13,16.28,28.7,1.28,0.11,0.55,4.93,-4.08
+DRI,Restaurants,198.66,23.27,8.76,22.68,3.5,0.19,2.19,1.42,2.24
+DTE,Utilities - Regulated Electric,122.0,25.27,7.38,16.53,3.56,0.03,5.88,17.41,11.06
+DUK,Utilities - Regulated Electric,115.35,89.11,5.57,20.71,3.65,0.25,17.28,72.45,50.18
+DVA,Medical Care Facilities,173.62,14.24,9.27,18.73,,0.38,2.64,8.27,2.74
+DVN,Oil & Gas E&P,33.47,21.99,5.4,6.2,4.34,0.88,2.95,5.67,12.22
+DXCM,Medical Devices,87.75,34.27,1.65,53.18,,0.57,1.56,2.43,2.06
+EA,Electronic Gaming & Multimedia,127.73,33.29,3.93,32.5,0.62,2.9,3.09,1.88,7.51
+EBAY,Internet Retail,67.64,32.4,3.97,17.04,1.6,1.99,4.52,6.97,6.4
+ECL,Specialty Chemicals,247.81,70.17,7.13,34.76,1.04,0.92,4.35,7.55,8.08
+ED,Utilities - Regulated Electric,95.63,33.13,5.32,17.98,3.56,1.19,6.46,21.93,21.16
+EFX,Consulting Services,245.82,30.48,4.85,50.68,0.58,0.22,2.02,4.75,4.69
+EG,Insurance - Reinsurance,338.33,14.54,31.78,10.65,2.32,1.44,,1.06,13.2
+EIX,Utilities - Regulated Electric,50.07,19.38,3.42,14.64,6.47,0.34,8.6,30.32,17.95
+EL,Household & Personal Products,64.64,23.25,-1.94,,2.02,3.4,5.7,7.27,5.32
+ELV,Healthcare Plans,391.67,90.84,25.69,15.25,1.67,6.53,,23.25,39.41
+EMN,Specialty Chemicals,99.51,11.46,7.67,12.97,3.58,0.55,2.58,4.3,5.53
+EMR,Specialty Industrial Machinery,124.65,70.29,3.54,35.21,1.65,3.59,5.74,7.16,27.51
+ENPH,Solar,63.04,8.52,0.75,84.05,,0.29,0.53,1.29,0.98
+EOG,Oil & Gas E&P,127.38,71.64,12.39,10.28,3.08,5.28,4.07,3.58,28.09
+EPAM,Information Technology Services,260.26,14.76,7.69,33.84,,2.04,0.64,0.03,3.47
+EQIX,REIT - Specialty,932.59,89.98,11.07,84.24,1.82,2.1,3.16,12.73,12.51
+EQR,REIT - Residential,71.54,27.98,2.72,26.3,3.84,0.05,0.84,6.98,11.57
+EQT,Oil & Gas E&P,51.42,30.68,0.75,68.56,1.22,0.08,2.04,5.5,14.79
+ERIE,Insurance Brokers,410.47,21.46,10.69,38.4,1.32,0.13,,,1.66
+ES,Utilities - Regulated Electric,59.33,21.74,-1.61,,5.11,0.05,6.34,23.96,14.33
+ESS,REIT - Residential,295.92,20.4,11.54,25.64,3.45,0.39,0.35,6.21,5.62
+ETN,Specialty Industrial Machinery,316.08,124.91,9.51,33.24,1.15,0.49,7.75,8.24,19.07
+ETR,Utilities - Regulated Electric,81.94,35.14,4.11,19.94,2.9,0.13,6.4,23.01,14.74
+EVRG,Utilities - Regulated Electric,65.29,15.02,3.7,17.65,4.08,0.03,3.51,11.05,9.69
+EW,Medical Devices,71.19,41.99,2.59,27.49,,1.14,1.2,0.6,6.72
+EXC,Utilities - Regulated Electric,41.24,41.43,2.43,16.97,3.7,0.45,9.59,40.08,25.76
+EXPD,Integrated Freight & Logistics,110.29,15.44,5.13,21.5,1.32,1.51,1.7,,2.39
+EXPE,Travel Services,200.18,25.69,8.96,22.34,0.93,4.22,11.78,6.25,2.78
+EXR,REIT - Industrial,155.92,34.39,3.75,41.58,4.15,0.1,1.09,10.33,15.42
+F,Auto Manufacturers,9.29,36.82,1.46,6.36,5.99,24.86,101.53,99.56,42.8
+FANG,Oil & Gas E&P,159.03,46.44,17.33,9.18,5.18,0.58,2.11,6.64,17.43
+FAST,Industrial Distribution,74.19,42.54,2.0,37.09,2.09,0.22,0.66,0.2,3.35
+FCX,Copper,38.0,54.6,1.3,29.23,1.53,4.76,5.82,8.66,27.31
+FDS,Financial Data & Stock Exchanges,467.02,17.76,13.94,33.5,0.88,0.42,0.67,1.24,1.92
+FDX,Integrated Freight & Logistics,255.36,61.5,15.66,16.31,2.0,6.5,13.36,20.14,27.59
+FE,Utilities - Regulated Electric,40.1,23.11,1.55,25.87,4.24,0.14,5.39,22.89,10.92
+FFIV,Software - Infrastructure,306.14,17.76,10.05,30.46,,1.07,1.49,,3.13
+FI,Information Technology Services,231.47,131.69,5.39,42.94,,1.2,33.55,21.71,30.67
+FICO,Software - Application,1829.69,44.68,21.7,84.32,,0.15,0.38,2.19,-0.96
+FIS,Information Technology Services,83.7,45.06,0.97,86.29,1.93,0.44,18.32,12.97,19.09
+FITB,Banks - Regional,44.15,29.57,3.14,14.06,3.34,3.14,,16.38,19.17
+FMC,Agricultural Inputs,34.28,4.28,3.21,10.68,4.22,0.3,3.38,3.02,4.44
+FOX,Entertainment,50.35,23.44,4.66,10.81,1.1,4.32,2.95,6.6,11.05
+FOXA,Entertainment,53.2,23.47,4.66,11.42,1.04,4.32,2.95,6.6,11.05
+FRT,REIT - Retail,110.54,9.46,3.44,32.13,3.97,0.25,0.3,4.6,3.23
+FSLR,Solar,166.79,17.86,11.6,14.38,,1.95,1.31,0.46,6.69
+FTNT,Software - Infrastructure,106.72,81.8,2.26,47.22,,1.4,3.72,0.99,-0.46
+FTV,Scientific & Technical Instruments,78.51,27.24,2.5,31.41,0.4,1.89,1.79,3.65,10.32
+GD,Aerospace & Defense,256.83,69.43,13.62,18.86,2.16,1.91,16.43,8.75,21.3
+GDDY,Software - Infrastructure,212.31,29.81,12.47,17.03,,0.46,2.68,3.8,0.06
+GE,Aerospace & Defense,205.65,220.73,6.1,33.71,0.59,13.62,34.39,17.23,19.56
+GEHC,Health Information Services,88.01,40.21,3.65,24.11,0.16,2.49,8.98,8.44,7.31
+GEN,Software - Infrastructure,27.59,17.0,1.02,27.05,1.79,0.85,2.65,8.43,2.2
+GEV,Utilities - Renewable,379.14,104.6,5.58,67.95,0.24,3.6,29.43,,8.96
+GILD,Drug Manufacturers - General,97.39,121.37,0.09,1082.11,3.14,6.08,11.28,23.19,22.74
+GIS,Packaged Foods,58.93,32.48,4.6,12.81,3.64,0.42,7.03,11.3,9.65
+GL,Insurance - Life,121.83,10.23,11.94,10.2,0.78,0.1,,1.63,4.49
+GLW,Electronic Components,52.83,45.18,0.58,91.09,2.19,1.78,4.32,7.21,11.87
+GM,Auto Manufacturers,47.63,47.4,6.37,7.48,0.87,19.87,96.27,90.3,65.59
+GNRC,Specialty Industrial Machinery,141.63,8.43,4.8,29.51,,0.2,0.88,1.38,2.35
+GOOG,Internet Content & Information,186.52,2262.7,8.04,23.2,0.39,23.47,89.12,10.88,325.09
+GOOG,Internet Content & Information,186.52,2262.7,8.04,23.2,0.39,23.47,89.12,10.88,325.09
+GPC,Auto Parts,117.72,16.37,7.76,15.17,3.39,1.1,7.83,3.55,4.42
+GPN,Specialty Business Services,110.08,28.01,5.3,20.77,0.9,2.09,8.13,15.69,23.79
+GRMN,Scientific & Technical Instruments,217.63,41.79,7.87,27.65,1.37,1.69,1.31,,7.01
+GS,Capital Markets,655.88,203.62,40.55,16.17,2.1,241.58,,247.87,116.9
+GWW,Industrial Distribution,1037.57,50.53,38.68,26.82,0.73,0.66,1.83,2.27,3.44
+HAL,Oil & Gas Equipment & Services,25.49,22.39,2.83,9.01,2.3,2.26,5.61,7.64,9.43
+HAS,Leisure,58.96,8.22,-4.64,,4.69,0.54,2.06,2.97,1.09
+HBAN,Banks - Regional,16.94,24.63,1.22,13.89,3.68,10.32,,12.39,19.4
+HCA,Medical Care Facilities,323.2,81.87,22.0,14.69,0.81,0.94,12.65,37.17,1.06
+HD,Home Improvement Retail,407.9,405.19,14.74,27.67,2.17,3.76,22.02,42.74,1.04
+HES,Oil & Gas E&P,143.52,44.22,8.98,15.98,1.38,1.69,3.27,8.3,9.61
+HIG,Insurance - Property & Casualty,113.49,32.64,10.35,10.97,1.82,0.13,,4.36,15.33
+HII,Aerospace & Defense,167.24,6.54,13.96,11.98,2.76,0.43,3.03,2.21,4.09
+HLT,Lodging,269.88,64.93,6.14,43.95,0.23,0.8,3.72,9.16,-2.35
+HOLX,Medical Instruments & Supplies,64.81,14.54,3.16,20.51,,2.16,1.04,2.5,5.13
+HON,Conglomerates,208.41,135.52,8.71,23.93,2.03,7.92,18.54,16.56,16.44
+HPE,Communication Equipment,21.25,27.95,1.93,11.01,2.4,14.85,25.97,13.5,24.88
+HPQ,Computer Hardware,32.28,30.28,2.81,11.49,2.82,3.24,28.69,8.26,-1.32
+HRL,Packaged Foods,29.0,15.92,1.47,19.73,3.65,0.74,1.4,2.85,8.0
+HSIC,Medical Distribution,78.83,9.79,2.44,32.31,,0.17,2.68,1.94,5.15
+HST,REIT - Hotel & Motel,16.74,11.86,1.03,16.25,4.79,1.14,1.46,3.22,6.82
+HSY,Confectioners,154.68,31.3,10.92,14.16,3.76,0.4,3.01,3.79,4.1
+HUBB,Electrical Equipment & Parts,398.38,21.38,14.38,27.7,1.29,0.34,1.32,2.02,2.89
+HUM,Healthcare Plans,278.52,33.54,11.46,24.3,1.27,4.69,,10.21,16.31
+HWM,Aerospace & Defense,128.0,52.0,2.61,49.04,0.31,0.61,1.78,3.5,4.04
+IBM,Information Technology Services,253.66,234.55,6.41,39.57,2.92,13.07,34.12,50.12,22.61
+ICE,Financial Data & Stock Exchanges,166.82,95.85,4.78,34.9,1.12,0.9,84.63,20.66,25.78
+IDXX,Diagnostics & Research,458.31,37.53,10.68,42.91,,0.45,0.95,0.62,1.48
+IEX,Specialty Industrial Machinery,195.4,14.8,6.64,29.43,1.26,0.53,0.5,1.33,3.55
+IFF,Specialty Chemicals,84.35,21.57,-9.08,,1.87,0.7,3.76,9.19,14.64
+INCY,Biotechnology,74.77,14.4,0.09,830.78,,3.21,1.24,,5.19
+INTC,Semiconductors,19.11,82.75,-4.38,,2.24,8.25,35.67,46.28,105.04
+INTU,Software - Application,581.01,162.63,10.27,56.57,0.61,3.61,7.49,5.54,18.43
+INVH,REIT - Residential,31.68,19.41,0.72,44.0,3.67,0.7,0.2,8.55,10.19
+IP,Packaging & Containers,56.79,29.94,1.57,36.17,3.19,1.11,3.96,5.46,8.35
+IPG,Advertising Agencies,27.61,10.29,2.12,13.02,4.76,2.39,10.33,2.92,4.05
+IQV,Diagnostics & Research,207.38,36.52,7.5,27.65,,1.38,6.49,12.96,6.11
+IR,Specialty Industrial Machinery,90.92,36.64,2.05,44.35,0.09,1.6,1.83,2.69,9.84
+IRM,REIT - Specialty,105.94,31.09,0.36,294.29,2.69,0.22,2.24,11.81,0.39
+ISRG,Medical Instruments & Supplies,586.67,209.24,6.41,91.52,,2.03,1.75,,16.53
+IT,Information Technology Services,529.47,40.84,16.03,33.03,,1.32,3.78,2.45,0.68
+ITW,Specialty Industrial Machinery,253.45,74.84,11.71,21.64,2.36,1.06,4.67,6.34,3.01
+IVZ,Asset Management,18.98,8.5,1.18,16.08,4.62,1.93,1.25,8.61,15.91
+J,Engineering & Construction,133.5,16.36,3.66,36.48,0.83,1.14,4.08,1.35,5.39
+JBHT,Integrated Freight & Logistics,166.9,16.78,5.56,30.02,0.92,0.05,1.78,1.33,4.11
+JBL,Electronic Components,165.16,18.09,10.57,15.63,0.22,2.2,11.78,2.88,1.74
+JCI,Building Products & Equipment,88.2,58.22,2.13,41.41,1.91,0.61,11.96,8.0,17.37
+JKHY,Information Technology Services,172.99,12.62,5.55,31.17,1.26,0.04,0.63,0.06,1.84
+JNJ,Drug Manufacturers - General,153.84,370.38,5.79,26.57,3.35,21.86,46.28,25.88,68.78
+JNPR,Communication Equipment,35.94,11.9,0.86,41.79,2.54,1.07,2.1,1.62,4.49
+JPM,Banks - Diversified,276.45,773.41,19.74,14.0,2.02,624.15,,391.82,327.88
+K,Packaged Foods,82.28,28.36,3.88,21.21,2.79,0.27,5.06,5.09,3.37
+KDP,Beverages - Non-Alcoholic,31.01,42.07,1.66,18.68,2.97,0.27,8.92,9.95,25.68
+KEY,Banks - Regional,17.72,19.61,-0.32,,4.48,0.94,,19.55,14.64
+KEYS,Scientific & Technical Instruments,174.59,30.19,3.52,49.6,,1.8,1.43,1.79,5.11
+KHC,Packaged Foods,29.1,35.19,1.11,26.22,5.52,1.4,8.04,19.39,49.72
+KIM,REIT - Retail,22.35,15.07,0.54,41.4,4.46,0.78,0.22,7.62,9.72
+KKR,Asset Management,150.89,139.24,3.27,46.14,0.43,20.35,40.63,48.63,58.37
+KLAC,Semiconductor Equipment & Materials,748.23,99.43,23.77,31.48,0.92,1.98,4.66,5.88,3.36
+KMB,Household & Personal Products,129.88,43.09,7.55,17.2,3.71,1.09,6.93,7.42,1.06
+KMI,Oil & Gas Midstream,27.08,60.17,1.17,23.15,3.74,0.08,7.22,27.96,31.73
+KMX,Auto & Truck Dealerships,85.18,13.1,2.94,28.97,,0.57,2.31,17.96,6.08
+KO,Beverages - Non-Alcoholic,63.81,274.86,2.41,26.48,3.06,9.37,23.57,35.55,27.48
+KR,Grocery Stores,65.23,47.2,3.78,17.26,2.14,1.88,16.06,10.16,11.61
+KVUE,Household & Personal Products,20.06,38.46,0.54,37.15,3.95,1.38,5.48,7.69,11.21
+L,Insurance - Property & Casualty,86.68,18.77,7.52,11.53,0.29,0.4,,7.92,16.53
+LDOS,Information Technology Services,141.87,18.93,8.79,16.14,1.14,0.78,2.99,4.66,4.26
+LEN,Residential Construction,121.87,32.16,14.32,8.51,1.37,4.91,1.84,4.19,28.02
+LH,Diagnostics & Research,244.62,20.4,8.84,27.67,1.15,0.54,3.23,4.05,7.9
+LHX,Aerospace & Defense,207.76,39.41,7.87,26.4,2.19,0.56,8.0,11.16,18.83
+LII,Building Products & Equipment,573.4,20.41,22.54,25.44,0.69,0.06,1.01,1.11,0.29
+LIN,Specialty Chemicals,455.45,216.86,13.18,34.56,1.21,4.66,15.72,13.4,41.09
+LKQ,Auto Parts,37.06,9.63,2.71,13.68,3.21,0.3,3.32,3.65,6.18
+LLY,Drug Manufacturers - General,882.98,794.08,11.75,75.15,0.71,2.82,27.29,18.32,10.87
+LMT,Aerospace & Defense,447.93,105.44,22.29,20.1,2.62,2.48,19.42,19.63,6.34
+LNT,Utilities - Regulated Electric,59.28,15.21,2.57,23.07,3.41,0.06,2.3,8.22,6.78
+LOW,Home Improvement Retail,252.32,142.47,12.03,20.97,1.69,0.92,15.57,35.38,-15.04
+LRCX,Semiconductor Equipment & Materials,82.55,105.97,3.29,25.09,1.22,5.85,4.34,4.47,8.53
+LULU,Apparel Retail,406.08,49.45,13.84,29.34,,2.24,1.63,,4.23
+LUV,Airlines,30.95,18.56,0.76,40.73,2.27,9.29,12.26,7.9,10.52
+LVS,Resorts & Casinos,43.32,31.41,1.96,22.1,1.84,5.11,4.42,12.13,4.11
+LW,Packaged Foods,58.6,8.36,2.54,23.07,1.84,0.07,1.62,3.44,1.79
+LYB,Specialty Chemicals,76.61,24.82,6.59,11.63,6.89,3.39,7.15,10.33,13.06
+LYV,Entertainment,149.05,34.37,0.88,169.38,,6.23,9.96,5.46,1.48
+MA,Credit Services,566.14,516.81,13.9,40.73,0.55,8.59,16.26,14.34,7.0
+MAA,REIT - Residential,158.12,19.45,4.5,35.14,3.86,0.04,1.06,4.05,6.29
+MAR,Lodging,304.45,84.6,9.54,31.91,0.83,0.34,7.76,11.32,-0.69
+MAS,Building Products & Equipment,76.96,16.6,3.76,20.47,1.5,0.63,1.7,2.94,0.11
+MCD,Restaurants,295.36,211.66,11.39,25.93,2.41,4.58,6.86,37.15,-4.7
+MCHP,Semiconductors,50.82,27.29,0.57,89.16,3.43,0.32,2.52,5.0,6.65
+MCK,Medical Distribution,598.2,74.97,21.77,27.48,0.47,4.58,52.36,5.58,-1.6
+MCO,Financial Data & Stock Exchanges,503.05,91.17,10.96,45.9,0.68,,,,
+MDLZ,Confectioners,58.46,75.61,3.42,17.09,3.27,1.35,19.55,15.66,26.96
+MDT,Medical Devices,90.02,115.43,3.27,27.53,3.2,1.28,10.79,23.88,50.42
+MET,Insurance - Life,84.23,58.05,6.13,13.74,2.56,20.64,,18.68,30.25
+META,Internet Content & Information,719.9,1823.98,23.85,30.18,0.3,43.89,33.6,28.83,182.63
+MGM,Resorts & Casinos,34.54,10.28,2.79,12.38,,2.93,3.13,6.34,4.37
+MHK,"Furnishings, Fixtures & Appliances",119.22,7.53,8.14,14.65,,0.64,3.15,1.7,7.63
+MKC,Packaged Foods,77.7,20.82,2.92,26.61,2.46,0.19,2.88,3.59,5.32
+MKTX,Capital Markets,200.19,7.55,7.29,27.46,1.49,0.45,0.58,,1.3
+MLM,Building Materials,541.29,33.08,32.24,16.79,0.58,1.27,1.17,3.95,8.03
+MMC,Insurance Brokers,227.05,111.51,8.18,27.76,1.49,3.36,19.8,11.84,12.37
+MMM,Conglomerates,150.43,81.67,7.27,20.69,1.99,5.6,11.26,11.12,3.9
+MNST,Beverages - Non-Alcoholic,46.47,45.19,1.56,29.79,,2.3,1.16,,8.23
+MO,Tobacco,52.85,89.35,6.54,8.08,7.75,3.69,11.32,25.11,-3.49
+MOH,Healthcare Plans,287.86,16.12,20.41,14.1,,4.85,8.17,2.18,4.21
+MOS,Agricultural Inputs,26.73,8.49,1.13,23.65,3.32,0.35,3.87,3.23,12.43
+MPC,Oil & Gas Refining & Marketing,151.72,47.94,10.07,15.07,2.48,5.44,20.15,25.33,31.4
+MPWR,Semiconductors,702.43,34.26,36.61,19.19,0.76,0.53,0.24,,2.05
+MRK,Drug Manufacturers - General,88.04,222.7,6.74,13.06,3.28,6.84,25.69,33.68,37.63
+MRNA,Biotechnology,33.0,12.7,-5.81,,,2.91,3.02,,13.86
+MS,Capital Markets,140.93,226.47,7.96,17.7,2.83,58.66,,267.47,99.98
+MSCI,Financial Data & Stock Exchanges,581.63,45.58,14.04,41.43,1.02,0.46,1.52,4.5,-0.74
+MSFT,Software - Infrastructure,410.75,3053.51,12.39,33.15,0.75,18.32,125.29,42.69,268.47
+MSI,Communication Equipment,480.55,80.31,9.11,52.75,0.9,1.71,5.74,4.71,0.74
+MTB,Banks - Regional,200.18,33.21,14.64,13.67,2.69,29.8,,8.2,26.95
+MTCH,Internet Content & Information,33.84,8.5,2.02,16.75,2.15,0.86,0.53,3.84,-0.02
+MTD,Diagnostics & Research,1378.79,29.1,40.45,34.09,,0.07,1.18,1.89,-0.15
+MU,Semiconductors,92.91,103.52,3.49,26.62,0.44,7.04,9.25,11.24,45.13
+NCLH,Travel Services,27.68,12.17,1.14,24.28,,0.4,6.04,12.31,0.3
+NDAQ,Financial Data & Stock Exchanges,83.29,47.87,1.93,43.16,1.18,0.45,9.03,10.16,10.82
+NDSN,Specialty Industrial Machinery,213.19,12.17,8.12,26.25,1.25,0.12,0.53,2.1,2.93
+NEE,Utilities - Regulated Electric,68.66,140.92,3.37,20.37,2.98,2.69,27.96,61.41,57.77
+NEM,Gold,45.19,51.44,-2.19,,2.23,3.0,6.0,6.95,29.21
+NFLX,Entertainment,1018.7,435.76,19.81,51.42,,7.8,10.76,13.8,24.74
+NI,Utilities - Regulated Gas,37.97,17.72,1.64,23.15,2.93,2.25,5.27,11.06,10.14
+NKE,Footwear & Accessories,69.99,103.52,3.24,21.6,2.08,9.86,10.59,7.9,14.43
+NOC,Aerospace & Defense,471.84,68.3,28.32,16.66,1.71,4.35,14.13,14.69,15.29
+NOW,Software - Application,1010.55,208.67,6.86,147.31,,2.3,8.36,1.49,9.61
+NRG,Utilities - Independent Power Producers,103.83,21.03,4.04,25.7,1.7,0.54,9.5,10.13,2.91
+NSC,Railroads,249.61,56.49,11.57,21.57,2.14,1.57,2.63,17.18,12.78
+NTAP,Computer Hardware,123.19,25.05,5.43,22.69,1.64,1.9,4.11,1.99,1.15
+NTRS,Asset Management,113.76,22.29,9.78,11.63,2.74,41.06,,13.41,11.89
+NUE,Steel,135.05,31.71,8.46,15.96,1.8,6.38,4.59,6.46,22.12
+NVDA,Semiconductors,128.6,3148.19,2.53,50.81,0.03,7.28,10.63,8.46,42.98
+NVR,Residential Construction,7577.67,23.56,506.95,14.95,,3.16,1.22,0.91,4.36
+NWS,Entertainment,33.65,17.37,0.75,44.87,0.6,1.96,3.06,2.85,9.01
+NWSA,Entertainment,28.96,17.29,0.75,38.61,0.69,1.96,3.06,2.85,9.01
+NXPI,Semiconductors,211.98,53.88,9.74,21.76,1.98,3.65,4.11,10.18,8.96
+O,REIT - Retail,54.08,47.33,1.05,51.5,5.84,0.23,1.89,20.76,33.11
+ODFL,Trucking,197.39,42.14,5.48,36.02,0.57,0.43,0.54,0.06,4.26
+OKE,Oil & Gas Midstream,95.83,59.79,4.72,20.3,4.3,0.34,3.45,21.18,16.49
+OMC,Advertising Agencies,84.04,16.51,7.46,11.27,3.19,4.34,16.3,6.04,5.17
+ON,Semiconductors,50.59,21.54,4.03,12.55,,2.48,2.18,2.54,7.81
+ORCL,Software - Infrastructure,174.49,488.03,4.08,42.77,0.83,10.45,31.54,76.26,9.24
+ORLY,Specialty Retail,1321.9,75.99,40.72,32.46,,0.28,7.66,5.57,-1.74
+OTIS,Specialty Industrial Machinery,94.82,37.6,4.07,23.3,1.63,2.3,7.75,6.97,-4.72
+OXY,Oil & Gas E&P,46.92,44.03,3.65,12.86,1.87,1.43,9.15,17.95,30.35
+PANW,Software - Infrastructure,195.2,128.09,3.86,50.57,,1.54,7.68,,5.17
+PARA,Entertainment,10.68,7.59,-9.06,,1.85,2.46,9.66,14.6,23.05
+PAYC,Software - Application,201.27,11.61,8.3,24.25,0.73,0.29,2.53,,1.31
+PAYX,Software - Application,147.53,53.12,4.76,30.99,2.89,1.47,5.31,0.8,3.8
+PCAR,Farm & Heavy Construction Machinery,106.6,55.9,7.9,13.49,1.2,7.18,12.81,9.17,15.88
+PCG,Utilities - Regulated Electric,15.39,33.76,1.28,12.02,0.64,0.64,17.31,50.98,25.29
+PEG,Utilities - Regulated Electric,83.77,41.74,4.07,20.58,2.86,0.05,5.06,17.78,15.48
+PEP,Beverages - Non-Alcoholic,144.35,197.98,6.95,20.77,3.61,8.51,31.54,37.22,18.17
+PFE,Drug Manufacturers - General,25.72,145.75,1.41,18.24,6.49,2.85,47.79,60.5,89.29
+PFG,Asset Management,81.21,18.57,-0.74,,3.65,4.71,,3.93,11.21
+PG,Household & Personal Products,168.5,395.11,6.28,26.83,2.49,9.48,33.63,25.27,50.56
+PGR,Insurance - Property & Casualty,252.34,147.82,14.4,17.52,1.99,0.08,,6.89,20.28
+PH,Specialty Industrial Machinery,686.13,88.35,24.21,28.34,0.98,0.42,7.31,7.16,12.08
+PHM,Residential Construction,106.11,21.76,14.69,7.22,0.78,1.81,1.56,2.46,10.39
+PKG,Packaging & Containers,211.1,18.96,8.94,23.61,2.1,0.65,1.27,2.47,4.0
+PLD,REIT - Industrial,117.57,108.89,3.31,35.52,3.27,0.53,3.26,28.02,57.82
+PLTR,Software - Infrastructure,116.01,264.3,0.19,610.64,,0.83,0.75,,3.56
+PM,Tobacco,144.72,225.02,6.02,24.04,4.12,3.06,26.38,41.24,-9.45
+PNC,Banks - Regional,201.02,79.59,13.74,14.63,3.19,50.73,,72.74,51.14
+PNR,Specialty Industrial Machinery,97.35,16.09,3.74,26.03,0.97,0.17,0.95,1.99,3.21
+PNW,Utilities - Regulated Electric,87.45,9.94,5.32,16.44,4.08,,2.89,7.54,6.28
+PODD,Medical Devices,285.05,19.99,5.87,48.56,,0.7,0.45,1.37,0.73
+POOL,Industrial Distribution,330.86,12.59,11.66,28.38,1.42,0.07,0.77,1.02,1.31
+PPG,Specialty Chemicals,114.53,26.57,5.73,19.99,2.22,1.51,5.05,5.75,8.03
+PPL,Utilities - Regulated Electric,34.1,25.16,1.11,30.72,3.02,0.33,3.34,14.61,13.94
+PRU,Insurance - Life,112.96,40.05,7.5,15.06,4.37,19.42,,20.0,29.78
+PSA,REIT - Industrial,301.86,52.88,9.63,31.35,3.96,0.37,0.6,9.1,10.11
+PSX,Oil & Gas Refining & Marketing,120.6,49.8,4.99,24.17,3.81,3.32,15.86,17.88,31.65
+PTC,Software - Application,168.78,20.31,3.24,52.09,,0.27,1.67,1.23,3.21
+PWR,Engineering & Construction,313.09,46.22,5.41,57.87,0.13,1.29,5.21,3.66,6.29
+PYPL,Credit Services,77.97,77.13,3.99,19.54,,6.56,48.38,9.88,20.42
+QCOM,Semiconductors,166.72,184.38,9.26,18.0,1.93,7.85,10.5,13.27,26.27
+RCL,Travel Services,267.07,71.81,11.0,24.28,0.93,0.5,9.4,19.73,4.9
+REG,REIT - Retail,73.79,13.47,2.11,34.97,3.87,0.08,0.51,4.0,7.2
+REGN,Biotechnology,717.59,78.45,38.34,18.72,,2.49,3.94,1.98,29.35
+RF,Banks - Regional,24.47,22.24,1.93,12.68,4.08,6.8,,2.33,17.49
+RJF,Asset Management,169.05,34.59,10.24,16.51,1.16,11.0,,3.09,11.66
+RL,Apparel Manufacturing,267.55,16.53,10.98,24.37,1.33,1.66,1.47,1.14,2.45
+RMD,Medical Instruments & Supplies,235.91,34.65,8.47,27.85,0.82,0.24,0.91,0.7,4.86
+ROK,Specialty Industrial Machinery,267.7,30.26,8.28,32.33,1.95,0.47,3.6,2.56,3.67
+ROL,Personal Services,49.68,24.06,0.97,51.22,1.31,0.1,0.58,0.49,1.16
+ROP,Software - Application,574.79,61.63,14.35,40.06,0.61,0.21,2.96,5.83,17.45
+ROST,Apparel Retail,143.2,47.24,6.35,22.55,1.03,4.87,4.19,2.21,4.87
+RSG,Waste Management,221.72,69.43,6.25,35.48,1.05,0.14,4.23,11.89,10.54
+RTX,Aerospace & Defense,128.34,170.96,3.55,36.15,2.02,5.58,51.5,38.73,61.96
+RVTY,Diagnostics & Research,116.93,14.23,2.3,50.84,0.22,0.91,1.45,3.18,7.87
+SBAC,REIT - Specialty,204.47,21.99,6.33,32.3,1.91,0.21,1.36,11.68,-5.13
+SBUX,Restaurants,111.6,126.77,3.11,35.88,2.43,3.29,9.07,14.32,-7.44
+SCHW,Capital Markets,83.56,152.96,2.99,27.95,1.24,43.34,,26.04,40.96
+SHW,Specialty Chemicals,359.32,90.49,10.55,34.06,0.79,0.28,6.63,8.38,3.71
+SJM,Packaged Foods,102.79,10.94,4.95,20.77,3.8,0.06,3.76,6.77,7.69
+SLB,Oil & Gas Equipment & Services,40.31,56.47,3.11,12.96,2.68,3.54,12.81,11.02,22.35
+SMCI,Computer Hardware,35.72,20.92,2.01,17.77,,0.44,1.37,0.12,1.97
+SNA,Tools & Accessories,336.7,17.67,19.51,17.26,2.4,1.0,0.94,1.18,5.09
+SNPS,Software - Infrastructure,524.99,81.15,9.22,56.94,,3.9,2.65,0.02,9.02
+SO,Utilities - Regulated Electric,84.22,92.28,4.29,19.63,3.44,0.75,13.47,57.21,35.22
+SOLV,Health Information Services,73.17,12.64,0.38,192.55,,0.6,1.77,8.3,3.41
+SPG,REIT - Retail,180.18,67.93,7.26,24.82,4.84,1.17,3.46,25.97,3.68
+SPGI,Financial Data & Stock Exchanges,519.0,161.04,11.32,45.85,0.74,1.29,6.12,11.41,38.1
+SRE,Utilities - Diversified,81.97,51.92,4.54,18.06,3.02,0.24,10.09,27.76,33.65
+STE,Medical Devices,221.96,21.91,6.4,34.68,1.03,0.21,0.93,3.12,6.31
+STLD,Steel,130.24,19.83,9.84,13.24,1.5,1.4,2.33,2.61,8.84
+STT,Asset Management,99.43,28.71,8.21,12.11,3.03,91.77,,15.48,23.8
+STX,Computer Hardware,96.08,20.34,5.5,17.47,2.84,1.36,3.1,5.2,-1.49
+STZ,Beverages - Brewers,168.79,30.51,3.74,45.13,1.84,0.15,3.14,10.68,10.06
+SW,Packaging & Containers,54.28,28.23,0.72,75.39,4.21,0.98,2.98,3.95,6.16
+SWK,Tools & Accessories,86.58,13.35,1.89,45.81,3.78,0.45,5.88,6.1,9.05
+SWKS,Semiconductors,67.09,10.78,3.25,20.64,3.35,1.37,0.6,0.99,6.33
+SYF,Credit Services,67.64,26.26,8.55,7.91,1.5,14.26,,15.98,13.9
+SYK,Medical Devices,391.79,149.36,7.76,50.49,0.85,2.97,7.92,10.9,18.59
+SYY,Food Distribution,71.23,34.85,3.9,18.26,2.65,0.7,9.24,11.51,1.89
+T,Telecom Services,24.66,176.92,1.49,16.55,4.89,6.72,51.13,127.85,119.42
+TAP,Beverages - Brewers,54.17,11.16,4.44,12.2,3.24,0.87,4.09,5.31,13.44
+TDG,Aerospace & Defense,1325.24,74.33,28.33,46.78,,6.26,6.34,24.3,-6.28
+TDY,Scientific & Technical Instruments,510.46,23.79,17.19,29.7,,0.65,1.77,2.64,9.23
+TECH,Biotechnology,71.68,11.39,0.98,73.14,0.44,0.15,0.16,0.32,2.06
+TEL,Electronic Components,145.53,43.42,6.33,22.99,1.75,1.32,4.75,3.33,12.48
+TER,Semiconductor Equipment & Materials,111.93,18.23,3.32,33.71,0.39,0.76,0.66,,2.53
+TFC,Banks - Regional,47.66,62.72,-0.3,,4.62,30.64,,38.92,59.25
+TFX,Medical Instruments & Supplies,173.3,8.05,5.03,34.45,0.78,0.22,0.61,1.73,4.44
+TGT,Discount Stores,130.68,59.88,9.43,13.86,2.87,3.81,19.3,14.92,13.44
+TJX,Apparel Retail,125.15,140.69,4.24,29.52,1.25,5.6,10.45,2.86,7.3
+TMO,Diagnostics & Research,569.12,217.69,16.55,34.39,0.27,8.08,14.01,31.31,46.85
+TMUS,Telecom Services,249.86,285.28,9.66,25.87,1.59,5.41,20.17,74.2,61.74
+TPL,Oil & Gas E&P,1349.58,31.01,19.54,69.07,0.48,0.73,0.06,,1.05
+TPR,Luxury Goods,79.79,16.52,3.44,23.19,1.91,6.14,1.71,6.94,2.9
+TRGP,Oil & Gas Midstream,202.0,44.05,5.53,36.53,1.51,0.14,2.76,12.09,4.61
+TRMB,Scientific & Technical Instruments,74.21,18.24,5.98,12.41,,0.23,1.83,2.54,4.5
+TROW,Asset Management,110.46,24.63,9.15,12.07,4.29,2.07,0.48,,10.29
+TRV,Insurance - Property & Casualty,246.68,55.9,21.47,11.49,1.76,0.65,,7.93,24.92
+TSCO,Specialty Retail,52.69,28.15,2.04,25.83,1.54,0.4,2.18,1.73,2.15
+TSLA,Auto Manufacturers,370.12,1190.49,2.02,183.23,,16.14,28.82,5.54,73.68
+TSN,Farm Products,57.73,20.56,2.96,19.5,3.54,1.72,4.79,9.71,18.51
+TT,Building Products & Equipment,354.68,79.81,11.34,31.28,0.92,1.1,6.05,3.98,7.02
+TTWO,Electronic Gaming & Multimedia,209.55,36.8,-21.37,,,0.75,2.41,3.06,5.67
+TXN,Semiconductors,180.07,164.26,5.21,34.56,2.71,2.96,3.32,10.62,16.9
+TXT,Aerospace & Defense,74.82,13.66,4.34,17.24,0.1,2.18,4.38,3.52,6.99
+TYL,Software - Application,607.27,25.99,5.48,110.82,,0.17,1.0,0.6,2.94
+UAL,Airlines,109.74,36.09,9.45,11.61,,6.06,22.2,25.06,9.32
+UBER,Software - Application,76.33,160.73,4.56,16.74,,4.68,9.45,9.46,12.68
+UDR,REIT - Residential,43.24,16.28,0.26,166.31,4.03,,0.85,5.39,4.95
+UHS,Medical Care Facilities,187.7,12.38,15.02,12.5,0.42,0.12,2.01,4.79,6.2
+ULTA,Specialty Retail,380.96,17.67,24.98,15.25,,0.77,1.66,,2.28
+UNH,Healthcare Plans,529.55,487.34,15.53,34.1,1.55,25.43,99.05,58.26,98.92
+UNP,Railroads,241.84,146.61,11.08,21.83,2.27,1.05,5.11,31.16,14.79
+UPS,Integrated Freight & Logistics,113.06,96.48,6.75,16.75,4.87,3.21,17.68,18.92,17.32
+URI,Rental & Leasing Services,743.66,48.57,38.67,19.23,0.86,0.46,3.32,12.23,8.62
+USB,Banks - Regional,47.26,73.73,3.79,12.47,3.93,61.19,,51.48,55.77
+V,Credit Services,348.03,671.35,9.9,35.15,0.69,11.97,26.52,20.84,39.14
+VICI,REIT - Diversified,30.06,31.68,2.7,11.13,5.74,0.52,0.66,16.72,25.66
+VLO,Oil & Gas Refining & Marketing,134.78,42.67,8.58,15.71,3.24,5.42,16.8,10.12,28.53
+VLTO,Pollution & Treatment Controls,97.19,24.04,3.34,29.1,0.43,0.76,1.26,2.63,1.39
+VMC,Building Materials,273.48,36.12,6.4,42.73,0.66,0.93,0.8,3.88,7.51
+VRSK,Consulting Services,294.68,41.61,6.49,45.41,0.53,0.3,0.77,2.83,0.33
+VRSN,Software - Infrastructure,219.37,21.08,7.99,27.46,,0.24,1.19,1.79,-1.58
+VRTX,Biotechnology,473.43,121.92,-1.88,,,10.37,3.55,,17.58
+VST,Utilities - Independent Power Producers,168.21,57.23,5.32,31.62,0.52,3.48,9.82,12.12,5.33
+VTR,REIT - Healthcare Facilities,60.59,25.42,-0.14,,2.97,0.51,1.18,13.48,9.55
+VTRS,Drug Manufacturers - Specialty & Generic,10.8,12.88,-0.73,,4.4,0.99,7.78,16.19,20.47
+VZ,Telecom Services,40.02,168.45,4.14,9.67,6.92,2.06,53.22,137.7,93.79
+WAB,Railroads,206.95,35.57,6.0,34.49,0.39,0.62,4.06,3.29,10.53
+WAT,Diagnostics & Research,406.34,24.13,10.48,38.77,,0.4,0.79,2.31,1.15
+WBA,Pharmaceutical Retailers,9.95,8.6,-10.24,,10.85,1.32,26.95,8.04,12.18
+WBD,Entertainment,10.28,25.23,-4.58,,,3.78,15.33,41.89,46.48
+WDAY,Software - Application,273.64,72.79,6.08,45.01,,2.01,5.05,2.98,8.08
+WDC,Computer Hardware,64.36,22.39,3.46,18.6,,1.88,6.09,5.68,11.05
+WEC,Utilities - Regulated Electric,101.14,32.13,4.83,20.94,3.55,0.04,5.11,15.37,12.07
+WELL,REIT - Healthcare Facilities,142.99,89.04,1.57,91.08,1.88,1.99,1.1,15.74,26.37
+WFC,Banks - Diversified,80.57,264.99,5.37,15.0,2.25,237.22,,207.57,187.44
+WM,Waste Management,225.7,90.59,6.82,33.09,1.43,0.46,4.23,15.89,6.89
+WMB,Oil & Gas Midstream,55.97,68.23,2.36,23.72,3.57,2.15,5.83,23.38,14.89
+WMT,Discount Stores,102.14,820.53,2.42,42.21,0.99,9.87,92.42,36.13,90.57
+WRB,Insurance - Property & Casualty,61.32,23.23,4.36,14.06,0.56,1.36,,2.83,7.47
+WST,Medical Instruments & Supplies,324.65,23.51,6.74,48.17,0.25,0.85,0.67,0.07,2.88
+WTW,Insurance Brokers,326.44,32.58,-0.95,,1.06,1.42,12.63,4.57,9.59
+WY,REIT - Specialty,30.06,21.82,0.54,55.66,2.58,1.16,0.79,5.07,10.23
+WYNN,Resorts & Casinos,81.08,8.9,8.33,9.73,1.24,2.88,2.2,11.03,-1.1
+XEL,Utilities - Regulated Electric,66.56,38.22,3.44,19.35,3.22,0.13,5.65,24.91,17.62
+XOM,Oil & Gas Integrated,109.49,476.62,7.84,13.97,3.61,31.54,65.32,33.65,212.54
+XYL,Specialty Industrial Machinery,131.7,32.0,3.65,36.08,1.17,1.02,2.21,2.27,10.17
+YUM,Restaurants,143.77,40.12,5.21,27.6,2.04,0.51,1.28,11.1,-7.86
+ZBH,Medical Devices,101.8,20.27,4.43,22.98,0.89,0.42,2.86,5.01,12.49
+ZBRA,Communication Equipment,359.0,18.52,7.35,48.84,,0.14,1.6,2.05,3.04
+ZTS,Drug Manufacturers - Specialty & Generic,171.78,77.5,5.33,32.23,1.15,2.04,1.89,6.56,5.0
